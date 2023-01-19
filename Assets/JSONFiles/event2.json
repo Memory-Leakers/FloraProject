@@ -1,0 +1,31 @@
+{
+    "Name": "Event 2",
+    "Text": "This is en event Text made in JSON. aosdoqijdwoqjdoijqdjoisdomqwdmoqdpsmpoqmpmspdmqpowomdpoqjwdpoqmwd",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Go to event 3",
+            "RedChange" : 1,
+            "BlueChange" : 3,
+            "GreenChange" : 0,
+            "NextEvent" : 3,
+            "NextNode" : 2
+        },
+        {
+            "ChoiceText" : "Go to event 1",
+            "RedChange" : 1,
+            "BlueChange" : 3,
+            "GreenChange" : 0,
+            "NextEvent" : 1,
+            "NextNode" : 2
+        },
+        {
+            "ChoiceText" : "Go to event 0",
+            "RedChange" : 1,
+            "BlueChange" : 3,
+            "GreenChange" : 0,
+            "NextEvent" : 0,
+            "NextNode" : 2
+        }
+    ]
+}
