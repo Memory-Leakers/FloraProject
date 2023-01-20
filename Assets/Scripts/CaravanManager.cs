@@ -18,10 +18,13 @@ public class CaravanManager : MonoBehaviour
     List<Characters> characters;
 
     //Walk Counter
-
     private int stepCounter = 0;
 
-
+    //Hours
+    private float gametime = 0.0f;
+    private float gametimeinminutes = 0.0f;
+    private float gametimeinhours = 0.0f;
+    private float gametimeScale = 0.0f;
 
     // Start is called before the first frame update
     void Start()
@@ -34,26 +37,38 @@ public class CaravanManager : MonoBehaviour
             new Characters("Kiev", 30, 4, 5, 6)
         };
         AddCharacter(test);
+
+        triad = 10;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Return))
+        UpdateGameTime();
+        Debug.Log("Time in minutes : " + gametimeinminutes);
+        Debug.Log("Time in hours : " +  gametimeinhours);
+
+        if (Input.GetKeyDown(KeyCode.Return))
         {
-            stepCounter++;
-            Debug.Log(stepCounter);
+            PlayGameTime();
         }
 
-        if(Input.GetKeyDown(KeyCode.Space))
-        { 
-            if(stepCounter >= 3)
-            {
-                Eat(triad, characters.Count);
-                Debug.Log(characters[0].name + " : " + characters[0].GetCurrentHealth());
-                stepCounter = 0;
-            }
+        if(Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            StopGameTime();
         }
+
+
+        if(gametimeinhours >= 24.0f)
+        {
+            Eat(triad, characters.Count);
+            Debug.Log(characters[0].name + " : " + characters[0].GetCurrentHealth());
+            stepCounter = 0;
+
+            gametime = 0.0f;
+
+        }
+        
     }
 
     void AddCharacter(Characters _character)
@@ -67,9 +82,12 @@ public class CaravanManager : MonoBehaviour
         if(numofportions >= numofcharacters)
         {
 
-            int eatenPortions = Mathf.Abs(numofportions - numofcharacters);
+            
+            int numofrationseaten = numofcharacters - Random.Range(0, 1);
 
-            triad -= eatenPortions;
+            Debug.Log("Eaten " + numofrationseaten + "Portions !!!!!!!!!!!!!!!!!!!!!!!!");
+
+            triad -= numofrationseaten;
 
         }
         else
@@ -113,6 +131,23 @@ public class CaravanManager : MonoBehaviour
         waterBubble--;
         bulbClaw--;
         triad++;
+    }
+
+    void PlayGameTime()
+    {
+        gametimeScale = 3600.0f;
+    }
+
+    void UpdateGameTime()
+    {
+        gametime += Time.deltaTime * gametimeScale;
+        gametimeinminutes  = gametime / 60;
+        gametimeinhours = gametimeinminutes / 60;
+    }
+
+    void StopGameTime()
+    {
+        gametimeScale = 0.0f;
     }
 
 }
