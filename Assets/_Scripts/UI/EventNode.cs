@@ -27,6 +27,7 @@ public class EventNode : MonoBehaviour
     public class EventChoice
     {
         public string ChoiceText;
+        public string InformationText;
 
         public int RedChange;
         public int BlueChange;

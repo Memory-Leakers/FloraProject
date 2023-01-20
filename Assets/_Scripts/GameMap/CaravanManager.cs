@@ -5,13 +5,13 @@ using UnityEngine;
 public class CaravanManager : MonoBehaviour
 {
     //Raciones
-    private int triad;
+    public int triad;
 
     //Flores
 
-    private int snowFlower;
-    private int waterBubble;
-    private int bulbClaw;
+    public int snowFlower;
+    public int waterBubble;
+    public int bulbClaw;
 
     //Personajes
 
@@ -21,10 +21,13 @@ public class CaravanManager : MonoBehaviour
     private int stepCounter = 0;
 
     //Hours
-    private float gametime = 0.0f;
-    private float gametimeinminutes = 0.0f;
-    private float gametimeinhours = 0.0f;
-    private float gametimeScale = 0.0f;
+    public float gametime = 0.0f;
+    public float gametimeinminutes = 0.0f;
+    public float gametimeinhours = 0.0f;
+    public float gametimeScale = 0.0f;
+
+    public int gameDay = 1;
+    public int gameMonth = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -48,15 +51,15 @@ public class CaravanManager : MonoBehaviour
         Debug.Log("Time in minutes : " + gametimeinminutes);
         Debug.Log("Time in hours : " +  gametimeinhours);
 
-        if (Input.GetKeyDown(KeyCode.Return))
-        {
-            PlayGameTime();
-        }
+        //if (Input.GetKeyDown(KeyCode.Return))
+        //{
+        //    PlayGameTime();
+        //}
 
-        if(Input.GetKeyDown(KeyCode.LeftShift))
-        {
-            StopGameTime();
-        }
+        //if(Input.GetKeyDown(KeyCode.LeftShift))
+        //{
+        //    StopGameTime();
+        //}
 
 
         if(gametimeinhours >= 24.0f)
@@ -66,7 +69,13 @@ public class CaravanManager : MonoBehaviour
             stepCounter = 0;
 
             gametime = 0.0f;
-
+            gametimeinhours = 0;
+            ++gameDay;
+            if (gameDay == 31)
+            {
+                gameDay = 1;
+                ++gameMonth;
+            }
         }
         
     }
@@ -133,7 +142,7 @@ public class CaravanManager : MonoBehaviour
         triad++;
     }
 
-    void PlayGameTime()
+    public void PlayGameTime()
     {
         gametimeScale = 3600.0f;
     }
@@ -142,10 +151,15 @@ public class CaravanManager : MonoBehaviour
     {
         gametime += Time.deltaTime * gametimeScale;
         gametimeinminutes  = gametime / 60;
-        gametimeinhours = gametimeinminutes / 60;
+        if (gametimeinminutes >= 60)
+        {
+            gametime = 0;
+            gametimeinminutes = 0;
+            gametimeinhours++;
+        }
     }
 
-    void StopGameTime()
+    public void StopGameTime()
     {
         gametimeScale = 0.0f;
     }

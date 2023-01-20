@@ -5,6 +5,7 @@
     [
         {
             "ChoiceText" : "Go north",
+            "InformationText" : "This will take about a day",
             "NextEvent" : 1,
             "NextNode" : 1
         },

@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     public CaravanBehavior caravan;
     public EventManager eventManager;
     public EventNode eventNode;
+    public CaravanManager caravanManager;
 
     public Transform[] nodePositions;
 
@@ -34,11 +35,13 @@ public class GameManager : MonoBehaviour
     {
         eventNode.gameObject.SetActive(false);
         caravan.GoTo(nodePositions[nodeNum].position);
+        caravanManager.PlayGameTime();
     }
 
     public void CaravanArrived()
     {
         eventNode.gameObject.SetActive(true);
+        caravanManager.StopGameTime();
     }
 
     public void StartBattle(int battleID, int winEvent, int loseEvent)
