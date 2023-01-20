@@ -6,8 +6,7 @@
         {
             "ChoiceText" : "Try again.",
             "NextEvent" : 0,
-            "NextNode" : 0,
-            "BattleID" : -1
+            "Restart" : 1
         }
     ]
 }

@@ -6,8 +6,7 @@
         {
             "ChoiceText" : "Keep going.",
             "NextEvent" : 8,
-            "NextNode" : 4,
-            "BattleID" : -1
+            "NextNode" : 4
         }
     ]
 }

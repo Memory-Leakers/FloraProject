@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EventNode : MonoBehaviour
 {
@@ -32,11 +33,13 @@ public class EventNode : MonoBehaviour
         public int GreenChange;
 
         public int NextEvent;
-        public int NextNode;
+        public int NextNode = -1;
         // Battle parameters
-        public int BattleID;
+        public int BattleID = -1;
         public int WinBattleEvent;
         public int LoseBattleEvent;
+        // Restart
+        public int Restart;
     }
 
     public EventInfo eventInfo = new EventInfo();
@@ -44,7 +47,6 @@ public class EventNode : MonoBehaviour
    
     public void LoadEventInfo(TextAsset JSONFile)
     {
-        _eventManager = FindObjectOfType<EventManager>();
         eventInfo = JsonUtility.FromJson<EventInfo>(JSONFile.text);
         for (int i = 0; i < eventChoices.Length; ++i)
         {
@@ -57,8 +59,9 @@ public class EventNode : MonoBehaviour
     }
     void Start()
     {
+        _eventManager = FindObjectOfType<EventManager>();
         _gameManager = FindObjectOfType<GameManager>();
-        LoadEventInfo(nodeJSON);
+        LoadEventInfo(_eventManager.jsonFiles[0]);
     }
 
     // Update is called once per frame
@@ -74,6 +77,13 @@ public class EventNode : MonoBehaviour
 
     public void ChooseOption(int option)
     {
+        // If Restart is not equal 0, we Restart the game.
+        if (eventInfo.Choices[option].Restart == 1)
+        {
+            SceneManager.LoadScene(0);
+            return;
+        }
+
         // If the option is a battle option, it is treated specially, because the event doesnt change right away.
         int eventBattle = eventInfo.Choices[option].BattleID;
         

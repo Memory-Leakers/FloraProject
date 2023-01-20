@@ -9,8 +9,7 @@
             "BlueChange" : 3,
             "GreenChange" : 1,
             "NextEvent" : 8,
-            "NextNode" : 4,
-            "BattleID" : -1
+            "NextNode" : 4
         }
     ]
 }

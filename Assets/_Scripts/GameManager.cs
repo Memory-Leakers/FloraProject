@@ -10,7 +10,12 @@ public class GameManager : MonoBehaviour
 
     public Transform[] nodePositions;
 
-    public bool willWinBattle = true;
+    public bool willWinBattle = true; // For debug purposes!
+
+    private void Start()
+    {
+        eventNode.gameObject.SetActive(true);
+    }
 
     private void Update()
     {

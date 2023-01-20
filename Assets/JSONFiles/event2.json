@@ -9,22 +9,18 @@
             "BlueChange" : -3,
             "GreenChange" : -1,
             "NextEvent" : 4,
-            "NextNode" : 1,
-            "BattleID" : -1
+            "NextNode" : 1
         },
         {
             "ChoiceText" : "Fight them.",
             "NextEvent" : 3,
-            "NextNode" : -1,
             "BattleID" : 0,
             "WinBattleEvent" : 5,
             "LoseBattleEvent" : 6
         },
         {
             "ChoiceText" : "Try to run away.",
-            "NextEvent" : 7,
-            "NextNode" : -1,
-            "BattleID" : -1
+            "NextEvent" : 7
         }
     ]
 }
