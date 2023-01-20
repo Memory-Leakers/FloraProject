@@ -1,0 +1,25 @@
+{
+    "Name": "Adventure Starts",
+    "Text": "Pick a direction",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Go north",
+            "NextEvent" : 1,
+            "NextNode" : 1,
+            "BattleID" : -1
+        },
+        {
+            "ChoiceText" : "Go south",
+            "NextEvent" : 2,
+            "NextNode" : 2,
+            "BattleID" : -1
+        },
+        {
+            "ChoiceText" : "Go east",
+            "NextEvent" : 3,
+            "NextNode" : 3,
+            "BattleID" : -1
+        }
+    ]
+}

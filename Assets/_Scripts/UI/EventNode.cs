@@ -33,12 +33,16 @@ public class EventNode : MonoBehaviour
 
         public int NextEvent;
         public int NextNode;
+        // Battle parameters
+        public int BattleID;
+        public int WinBattleEvent;
+        public int LoseBattleEvent;
     }
 
     public EventInfo eventInfo = new EventInfo();
     // Start is called before the first frame update
    
-    void LoadEventInfo(TextAsset JSONFile)
+    public void LoadEventInfo(TextAsset JSONFile)
     {
         _eventManager = FindObjectOfType<EventManager>();
         eventInfo = JsonUtility.FromJson<EventInfo>(JSONFile.text);
@@ -70,23 +74,28 @@ public class EventNode : MonoBehaviour
 
     public void ChooseOption(int option)
     {
+        // If the option is a battle option, it is treated specially, because the event doesnt change right away.
+        int eventBattle = eventInfo.Choices[option].BattleID;
+        
+        if (eventBattle != -1)
+        {
+            _gameManager.StartBattle(eventBattle, eventInfo.Choices[option].WinBattleEvent, eventInfo.Choices[option].LoseBattleEvent);
+            return;
+        }
+
         int nextEvent = eventInfo.Choices[option].NextEvent;
         string nextEventFilename = "event" + nextEvent + ".json";
         int nextNode = eventInfo.Choices[option].NextNode;
-
+       
         TextAsset eventJSON = _eventManager.jsonFiles[nextEvent];
 
         LoadEventInfo(eventJSON);
 
-        if (nextNode == -1)
+        // If we are moving the caravan after this choice...
+        if (nextNode != -1)
         {
-            // Next event pops up.
-        }
-        else
-        {
-            // Disable Event window
+            // Disable Event window & move caravan to the given node.
             _gameManager.MoveCaravan(nextNode); // This sets the EventNode gameObject as false!
-            // Move caravan to the next node
         }
     }
 }

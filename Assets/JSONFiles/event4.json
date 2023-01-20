@@ -1,0 +1,13 @@
+{
+    "Name": "A tribute.",
+    "Text": "The bandits take your money and let you go.",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Keep going.",
+            "NextEvent" : 8,
+            "NextNode" : 4,
+            "BattleID" : -1
+        }
+    ]
+}

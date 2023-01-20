@@ -10,6 +10,21 @@ public class GameManager : MonoBehaviour
 
     public Transform[] nodePositions;
 
+    public bool willWinBattle = true;
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            StartGame();
+        }
+    }
+
+    public void StartGame()
+    {
+        eventNode.gameObject.SetActive(true);
+    }
+
     public void MoveCaravan(int nodeNum)
     {
         eventNode.gameObject.SetActive(false);
@@ -18,6 +33,24 @@ public class GameManager : MonoBehaviour
 
     public void CaravanArrived()
     {
+        eventNode.gameObject.SetActive(true);
+    }
+
+    public void StartBattle(int battleID, int winEvent, int loseEvent)
+    {
+        // Do the battle with the given battle id
+        
+        TextAsset eventJSON;
+
+        // If win
+        if (willWinBattle)
+            eventJSON = eventManager.jsonFiles[winEvent];
+        else
+            eventJSON = eventManager.jsonFiles[loseEvent];
+
+        eventNode.LoadEventInfo(eventJSON);
+
+        // If we want to move the caravan before the next event after a battle, this could should be changed.
         eventNode.gameObject.SetActive(true);
     }
 }

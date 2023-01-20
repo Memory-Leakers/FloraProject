@@ -1,31 +1,30 @@
 {
-    "Name": "Event 1",
-    "Text": "This is en event Text made in JSON. aosdoqijdwoqjdoijqdjoisdomqwdmoqdpsmpoqmpmspdmqpowomdpoqjwdpoqmwd",
+    "Name": "The northern lands",
+    "Text": "There is a group of northern bandits waiting for you.",
     "Choices" : 
     [
         {
-            "ChoiceText" : "Go to event 2",
-            "RedChange" : 1,
-            "BlueChange" : 3,
-            "GreenChange" : 0,
-            "NextEvent" : 2,
-            "NextNode" : 1
+            "ChoiceText" : "Pay them.",
+            "RedChange" : -1,
+            "BlueChange" : -3,
+            "GreenChange" : -1,
+            "NextEvent" : 4,
+            "NextNode" : 1,
+            "BattleID" : -1
         },
         {
-            "ChoiceText" : "Go to event 3",
-            "RedChange" : 1,
-            "BlueChange" : 3,
-            "GreenChange" : 0,
+            "ChoiceText" : "Fight them.",
             "NextEvent" : 3,
-            "NextNode" : 1
+            "NextNode" : -1,
+            "BattleID" : 0,
+            "WinBattleEvent" : 5,
+            "LoseBattleEvent" : 6
         },
         {
-            "ChoiceText" : "Go to event 0",
-            "RedChange" : 1,
-            "BlueChange" : 3,
-            "GreenChange" : 0,
-            "NextEvent" : 0,
-            "NextNode" : 1
+            "ChoiceText" : "Try to run away.",
+            "NextEvent" : 7,
+            "NextNode" : -1,
+            "BattleID" : -1
         }
     ]
 }

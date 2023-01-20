@@ -1,0 +1,13 @@
+{
+    "Name": "Lose",
+    "Text": "The bandits slained you. Game over.",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Try again.",
+            "NextEvent" : 0,
+            "NextNode" : 0,
+            "BattleID" : -1
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Name": "Win ",
+    "Text": "You win against the bandits.",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Keep going",
+            "RedChange" : 1,
+            "BlueChange" : 3,
+            "GreenChange" : 1,
+            "NextEvent" : 8,
+            "NextNode" : 4,
+            "BattleID" : -1
+        }
+    ]
+}
