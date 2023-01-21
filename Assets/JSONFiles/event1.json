@@ -8,12 +8,10 @@
             "RedChange" : -1,
             "BlueChange" : -3,
             "GreenChange" : -1,
-            "NextEvent" : 4,
-            "NextNode" : 1
+            "NextEvent" : 4
         },
         {
             "ChoiceText" : "Fight them.",
-            "NextEvent" : 3,
             "BattleID" : 0,
             "WinBattleEvent" : 5,
             "LoseBattleEvent" : 6
