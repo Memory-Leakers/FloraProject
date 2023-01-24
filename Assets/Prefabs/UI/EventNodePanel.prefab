@@ -756,6 +756,114 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!1 &2593989842723214633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8529516810423221214}
+  - component: {fileID: 6412686687603061498}
+  - component: {fileID: 529727436435460661}
+  - component: {fileID: 6411720715093241440}
+  m_Layer: 5
+  m_Name: ScrollArea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &8529516810423221214
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2593989842723214633}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1312567422122856740}
+  m_Father: {fileID: 7895832890745555749}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 334.2336, y: 134.735}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &6412686687603061498
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2593989842723214633}
+  m_CullTransparentMesh: 1
+--- !u!114 &529727436435460661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2593989842723214633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &6411720715093241440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2593989842723214633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Content: {fileID: 1312567422122856740}
+  m_Horizontal: 0
+  m_Vertical: 1
+  m_MovementType: 1
+  m_Elasticity: 0.1
+  m_Inertia: 1
+  m_DecelerationRate: 0.135
+  m_ScrollSensitivity: 1
+  m_Viewport: {fileID: 0}
+  m_HorizontalScrollbar: {fileID: 0}
+  m_VerticalScrollbar: {fileID: 0}
+  m_HorizontalScrollbarVisibility: 0
+  m_VerticalScrollbarVisibility: 0
+  m_HorizontalScrollbarSpacing: 0
+  m_VerticalScrollbarSpacing: 0
+  m_OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &4080339496327320432
 GameObject:
   m_ObjectHideFlags: 0
@@ -790,7 +898,7 @@ RectTransform:
   m_Children:
   - {fileID: 292477763377413950}
   - {fileID: 7451473222045929788}
-  - {fileID: 1312567422122856740}
+  - {fileID: 8529516810423221214}
   - {fileID: 1061181140740437019}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -851,7 +959,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1850697860, guid: e16617dafda10e04eab6467f7cc19a91, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e82d728ccd45442439046b214515d423, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -876,8 +984,8 @@ MonoBehaviour:
   m_Padding:
     m_Left: 0
     m_Right: 0
-    m_Top: 5
-    m_Bottom: 0
+    m_Top: 28
+    m_Bottom: 32
   m_ChildAlignment: 4
   m_Spacing: 0
   m_ChildForceExpandWidth: 1
@@ -1130,7 +1238,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 171.83789, y: -7.0228996}
+  m_AnchoredPosition: {x: 171.83789, y: -7.022888}
   m_SizeDelta: {x: 305.2417, y: 25.0571}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &7736775948036839378
@@ -1195,7 +1303,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1241,6 +1349,7 @@ GameObject:
   - component: {fileID: 1312567422122856740}
   - component: {fileID: 3319157850350117689}
   - component: {fileID: 352947712966338202}
+  - component: {fileID: 5491367290020495659}
   m_Layer: 5
   m_Name: EventText
   m_TagString: Untagged
@@ -1255,19 +1364,19 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6848107887380101859}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 7895832890745555749}
-  m_RootOrder: 2
+  m_Father: {fileID: 8529516810423221214}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 319.4259, y: 113.2229}
-  m_Pivot: {x: 0.5, y: 1}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: -0.000030517578, y: -0.0000076293945}
+  m_SizeDelta: {x: 334.23, y: 136.52}
+  m_Pivot: {x: 0, y: 1}
 --- !u!222 &3319157850350117689
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1296,12 +1405,30 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Event text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum'
+  m_text: "Cuando Satz fue a cerrar la puerta, una pierna la bloqueo. Satz se ech\xF3
+    para atr\xE1s mientras la puerta se abr\xEDa. El hombre encapuchado entr\xF3
+    y cerr\xF3 la puerta. Al volverse se quit\xF3 la capucha, entonces fue cuando
+    Satz pudo identificar al hombre.\r\nSe trataba de Kief un viejo cliente de Kavi,
+    un n\xF3mada comerciante que como tantos otros viajaba de naci\xF3n en naci\xF3n
+    comprando y vendiendo las tres plantas con las que se fabricaban las Triacas.\r\n\u201C\xBFQu\xE9
+    Satz, es que a\xFAn no me has reconocido?\u201D dijo Kief sonriendo. \u201CMe
+    has impresionado, es la primera vez que veo un esclavo de Luma barrar el paso
+    a un Noble. Pero lo que a\xFAn m\xE1s me ha impresionado es verte salir de casa
+    voluntariamente.\u201D Prosigui\xF3 diciendo Kief.\r\nMientras dec\xEDa eso Kief
+    estaba andando lentamente hacia la mesa, a\xFAn estaban la botella de Triaca
+    y el plato vac\xEDo del almuerzo de Kavi esta ma\xF1ana.\r\n\u201CDime Satz,
+    Kavi est\xE1 fuera vendiendo verdad\u201D pregunto Kief mientras se sentaba en
+    la silla.\r\n\u201CS\xED, hace ya unas horas que salieron a vender Triacas. A
+    estas horas ya deben estar dentro de la capital siguiendo su ru\u2026\u201D\r\n\u201CNo
+    te preocupes, no lo busco a \xE9l, tan solo quiero saber por qu\xE9 le has barrado
+    el paso a ese noble\u201D Satz fue interrumpido por Kief. \u201CEse era nada
+    m\xE1s ni nada menos que el mism\xEDsimo Norm se\xF1or de unas de las plantaciones
+    de Bulbo de garra m\xE1s importantes de Luma y, por tanto, uno de los hombres
+    m\xE1s importantes de esta naci\xF3n.\u201D Sigui\xF3 diciendo Kief.\u201D\r\nAl
+    escuchar ese nombre, la cara de Satz cambio, volvi\xE9ndose a llenar de rabia.
+    Kief se percat\xF3 de ello y sigui\xF3.\r\n\u201CAsi que conoces el nombre de
+    Norm, \xBFVerdad? Algo extra\xF1o para un simple esclavo propiedad de un vendedor
+    de Triacas de mala muerte\u201D"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1328,10 +1455,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 12.15
-  m_fontSizeBase: 24
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 12
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -1370,6 +1497,19 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &5491367290020495659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6848107887380101859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShowMaskGraphic: 1
 --- !u!1 &6961398494188861751
 GameObject:
   m_ObjectHideFlags: 0
@@ -1406,7 +1546,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 311.535, y: 162.52}
+  m_SizeDelta: {x: 254.8786, y: 140.57}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5449328230691726882
 CanvasRenderer:

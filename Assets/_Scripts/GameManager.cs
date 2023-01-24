@@ -50,6 +50,10 @@ public class GameManager : MonoBehaviour
         
         TextAsset eventJSON;
 
+        // Leo el JSON
+        // Hago AddCharacter
+        // Activo el GameManager
+
         // If win
         if (willWinBattle)
             eventJSON = eventManager.jsonFiles[winEvent];

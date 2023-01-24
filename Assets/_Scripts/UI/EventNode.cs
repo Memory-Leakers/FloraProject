@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class EventNode : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class EventNode : MonoBehaviour
 
     public TMPro.TextMeshProUGUI eventName;
     public TMPro.TextMeshProUGUI eventText;
+    public ScrollRect scrollRect;
 
     public UnityEngine.UI.Button[] eventChoices = new UnityEngine.UI.Button[3];
 
@@ -57,6 +59,7 @@ public class EventNode : MonoBehaviour
         {
             eventChoices[i].gameObject.SetActive(true);
         }
+        scrollRect.verticalNormalizedPosition = 0;
     }
     void Start()
     {
