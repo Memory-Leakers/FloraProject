@@ -1,0 +1,15 @@
+{
+    "Name": "You win.",
+    "Text": "Win",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Try again.",
+            "NextEvent" : 0, 
+            "BattleID" : 0,
+            "WinBattleEvent" : 0,
+            "LoseBattleEvent" : 1,
+            "NextNode" : 2
+        }
+    ]
+}
