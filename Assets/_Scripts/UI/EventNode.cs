@@ -47,7 +47,7 @@ public class EventNode : MonoBehaviour
 
     public EventInfo eventInfo = new EventInfo();
     // Start is called before the first frame update
-   
+
     public void LoadEventInfo(TextAsset JSONFile)
     {
         eventInfo = JsonUtility.FromJson<EventInfo>(JSONFile.text);

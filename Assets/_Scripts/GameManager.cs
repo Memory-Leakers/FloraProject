@@ -13,6 +13,9 @@ public class GameManager : MonoBehaviour
 
     public bool willWinBattle = true; // For debug purposes!
 
+    int nextWinEvent;
+    int nextLoseEvent;
+
     private void Start()
     {
         eventNode.gameObject.SetActive(true);
@@ -47,18 +50,24 @@ public class GameManager : MonoBehaviour
     public void StartBattle(int battleID, int winEvent, int loseEvent)
     {
         // Do the battle with the given battle id
-        
-        TextAsset eventJSON;
+        nextWinEvent = winEvent;
+        nextLoseEvent = loseEvent;
 
         // Leo el JSON
         // Hago AddCharacter
         // Activo el GameManager
 
+
+    }
+
+    public void EndBattle(bool win)
+    {
+        TextAsset eventJSON;
         // If win
-        if (willWinBattle)
-            eventJSON = eventManager.jsonFiles[winEvent];
+        if (win)
+            eventJSON = eventManager.jsonFiles[nextWinEvent];
         else
-            eventJSON = eventManager.jsonFiles[loseEvent];
+            eventJSON = eventManager.jsonFiles[nextLoseEvent];
 
         eventNode.LoadEventInfo(eventJSON);
 
