@@ -1,0 +1,14 @@
+{
+  "Name": "Asientes callado con la cabeza",
+  "Text": "'Hace años que sospecho sobre ti. Tu pelo gris y rizado. Tu rostro ovalado y tu nariz recta. No son rasgos propios de un Lumita.'Kief se inclinó hacia delante, poniendo sus codos encima de la mesa, inspeccionando a Satz con detenimiento.\n 'Y aún más, tu antiguo apellido, Limbu, común entre la gente de la cuarta nación.' Kief reflexionó un segundo. La cuarta nación, la nación nómada. Se suponía que era su verdadera nación, aunque hiciera años que aquello dejara de importar.\n 'Hace tiempo dejé a mi grupo y empecé a comerciar junto a un viejo amigo. En aquel entonces escuchamos los rumores de que en Luma había un noble que empezaba a vender Bulbo de Garra más barato que los demás. Como comerciantes que somos, vinimos atraídos por la idea de hacer un buen negocio.'\n Kief hizo una pequeña pausa y prosiguió.\n 'Volviendo de Luma por la ruta hacia el árbol moribundo, fuimos asaltados por unos bandidos. Imagina mi sorpresa al descubrir que el líder los bandidos era el mismo noble al cual le compre las plantas.'\n 'Norm…' dijo Satz en voz baja.\n 'El mismo.' Kief hizo una pausa, examinando a Satz. El chico volvía a estar tenso. \n 'En ese entonces tuvimos suerte, pudimos dar media vuelta y escapar…' dijo Kief mientras dejaba ir un suspiro. 'Más tarde descubrimos que lo que nos había pasado no era un caso aislado, y que todos los comerciantes que habían hecho negocios con él antes del gran festival eran asaltados por los mismos bandidos en esa misma ruta.' Kief se levantó.\n 'Satz Limbu, después de lo que he visto hoy, una cosa me queda clara. Tú no eres nativo de Luma. Ningún Lumita osaría anteponerse a un noble, y mucho menos un esclavo.' dijo Kief alzando la voz mientras andaba por la habitación.\n Al terminar se dirigió a Satz, le puso las manos en los hombros. 'Escúchame bien Satz, solo te lo diré una vez.' Su voz era afable, nunca le había escuchado hablar así.\n 'Según las leyes de Luma todo esclavo tiene un único derecho; el de servir al amo que desee. Estas mismas leyes no impiden que tu amo sea un extranjero. Elígeme como amo y yo te ayudaré a volver a ser un nómada libre, como lo fuiste ya una vez'.\n El miedo se apoderó de Satz. ¿El exterior? Solo de pensarlo le entraban náuseas, sus manos temblaban, su corazón se aceleraba.\n Sin embargo, acababa de salir ahora, y se había puesto en el camino de un noble. Quizá podía salir, quizá podría ser libre.\n Pero, ¿podría confiar en Kief? Parecía un buen hombre, pero no podía confiar en nadie.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Aun con miedo aceptas y te vas con Kief",
+      "NextEvent": 20
+    },
+    {
+      "ChoiceText": "Aunque tu deseo es ir con él, tu miedo al exterior te lo impide",
+      "NextEvent": 21
+    }
+  ]
+}

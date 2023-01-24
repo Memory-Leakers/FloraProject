@@ -1,0 +1,10 @@
+{
+  "Name": "Vuelves dentro de la casa de Kavi",
+  "Text": "Cuando Satz fue a cerrar la puerta, una pierna la bloqueo. Satz se echó para atrás mientras la puerta se abría. El hombre encapuchado entró y cerró la puerta. Al volverse se quitó la capucha, entonces fue cuando Satz pudo identificar al hombre.\n Se trataba de Kief un viejo cliente de Kavi. Era un nómada comerciante que, como tantos otros, viajaba de nación en nación comprando y vendiendo las tres plantas con las que se fabricaban las Triacas. Sus ojos azules inspeccionaban a Satz con detenimiento.\n '¿Qué Satz, es que aún no me has reconocido?' dijo Kief sonriendo. Satz lo reconoció, por supuesto, pero no tenía por costumbre ser el primero en entablar conversación. 'Me has impresionado, es la primera vez que veo un esclavo de Luma ponerse en el camino de un Noble. Pero lo que aún más impresionante ha sido verte salir de casa voluntariamente.', dijo Kief mientras andaba lentamente hacia la mesa.\n En la mesa aún estaban la botella de Triaca y el plato vacío del almuerzo de Kavi aquella mañana.\n 'Dime Satz, Kavi está fuera vendiendo, ¿verdad?' pregunto Kief sentándose en la silla.\n Satz vaciló un momento antes de responder. ¿Y Kavi quería hacerle daño por enfrentarse a un noble? 'Sí, hace ya unas horas que salieron a vender Triacas.' La voz de Satz salió de su boca como un hilo. 'A estas horas ya deben estar dentro de la capital siguiendo su ru…'\n 'No te preocupes, no le busco a él, tan solo quiero saber por qué le has barrado el paso a ese noble'. Satz fue interrumpido por Kief. 'Ese era, nada más ni nada menos, que el mismísimo Norm señor de unas de las plantaciones de Bulbo de Garra más importantes de Luma y, por tanto, uno de los hombres más importantes de esta nación.' Siguió diciendo Kief.'\n El rostro de Satz cambió con la mención del nombre.\n Kief se percató de ello y siguió.\n 'Asi que conoces el nombre de Norm, ¿Verdad?'\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Asientes callado con la cabeza",
+      "NextEvent": 19
+    }
+  ]
+}

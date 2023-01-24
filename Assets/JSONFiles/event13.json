@@ -1,0 +1,10 @@
+{
+  "Name": "Intentas clavarle la herramienta",
+  "Text": "Satz se abalanzó chillando encima del noble, intentando clavarle la herramienta. El noble lo paró sin esfuerzo, y con un gesto rápido le dislocó la muñeca, haciendo caer el arma al suelo. Uno de los guardias lo cogió de la cintura por la espalda y lo lanzó contra la pared de una casa. Sacó la espada y se la clavó en el cuello sin vacilar.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Mueres lentamente",
+      "NextEvent": 14
+    }
+  ]
+}

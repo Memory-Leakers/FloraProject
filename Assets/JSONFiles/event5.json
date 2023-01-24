@@ -1,15 +1,10 @@
 {
-    "Name": "Win ",
-    "Text": "You win against the bandits.",
-    "Choices" : 
-    [
-        {
-            "ChoiceText" : "Keep going",
-            "RedChange" : 1,
-            "BlueChange" : 3,
-            "GreenChange" : 1,
-            "NextEvent" : 8,
-            "NextNode" : 4
-        }
-    ]
+  "Name": "Ignoras la petición de Gossal",
+  "Text": "'Vamos Gossal levántate que ya es hora de que salgamos a vender' dijo Kavi mientras acababa de colocarse su capa negra y recoger su bastón.\n Aún adolorido, Gossal se levantó como pudo del suelo, cargo la mochila a sus espaldas y ató la carreta a su cintura.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Gossal y Kavi salen de casa para ir a vender las mercancías",
+      "NextEvent": 3
+    }
+  ]
 }

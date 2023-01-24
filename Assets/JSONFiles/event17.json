@@ -1,0 +1,10 @@
+{
+  "Name": "Vuelves en ti",
+  "Text": "'Si no fueras propiedad de alguien, te habría hecho ejecutar aquí mismo por tan basta insolencia. Aparta de en medio' dijo Norm mientras daba una puntada de pie a Satz que le hizo volar hasta la pared más cercana.\n Se golpeó de cabeza contra la pared, el golpe lo aturdió durante unos minutos. Mientras Norm y sus guardias siguieron su camino.\n Un hombre se le acercó. Era el hombre encapuchado al que había visto observar a los guardias hacía un rato.\n '¿Satz?' le escuchó decir. '¿Estás fuera?'.\n Satz fue recuperando la consciencia, dándose cuenta de lo que acababa de hacer. Estaba en el exterior.\n Su piel se heló, y sus temblores volvieron. Ignoró al hombre, pues lo único en lo que pensaba era en volver dentro lo más rápido posible.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Vuelves dentro de la casa de Kavi",
+      "NextEvent": 18
+    }
+  ]
+}

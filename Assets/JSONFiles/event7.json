@@ -1,12 +1,10 @@
 {
-    "Name": "Coward.",
-    "Text": "The bandits catch you and salve you. Game over.",
-    "Choices" : 
-    [
-        {
-            "ChoiceText" : "Try again.",
-            "NextEvent" : 0,
-            "Restart" : 1
-        }
-    ]
+  "Name": "Sigues trabajando",
+  "Text": "Satz disfrutaba de crear Triaca. El proceso era lento y aburrido para la mayoría, pero Satz encontraba paz en él. A veces, le parecía oír un sonido proviniendo de las raíces, como si intentaran hablarle. Era el mismo sonido que siempre había percibido, allá en el horizonte… Pasados unos minutos, Satz vio salir de la taberna a un noble con más guardias.\n Era un hombre de mediana edad, muy alto y su pelo era negro y largo. En su cara había una amplia cicatriz que le atravesaba el mentón, dividiéndolo en dos.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Sientes curiosidad, te arrimas a la venta y observas detenidamente",
+      "NextEvent": 8
+    }
+  ]
 }
