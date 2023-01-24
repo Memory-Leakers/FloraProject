@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TeamA
+  - TeamB
   layers:
   - Default
   - TransparentFX
@@ -46,4 +48,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3749050009
+    locked: 0
+  - name: BattleLayer
+    uniqueID: 2051573133
     locked: 0

@@ -2,6 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
+public class BattleInfo
+{
+    public CharacterParam[] characters;
+}
+
 public class GameManager : MonoBehaviour
 {
     public CaravanBehavior caravan;
@@ -9,9 +15,14 @@ public class GameManager : MonoBehaviour
     public EventNode eventNode;
     public CaravanManager caravanManager;
 
+    public TeamManager teamManager;
+    public BattleManager BattleManager;
+
     public Transform[] nodePositions;
 
     public bool willWinBattle = true; // For debug purposes!
+
+    public List<TextAsset> jsonBattles;
 
     int nextWinEvent;
     int nextLoseEvent;
@@ -54,10 +65,18 @@ public class GameManager : MonoBehaviour
         nextLoseEvent = loseEvent;
 
         // Leo el JSON
+        BattleInfo battleInfo = JsonUtility.FromJson<BattleInfo>(jsonBattles[battleID].text);
+
         // Hago AddCharacter
+        for (int i = 0; i < battleInfo.characters.Length; i++)
+        {
+            teamManager.AddCharacter(battleInfo.characters[i]);
+        }
+
         // Activo el GameManager
+        BattleManager.gameObject.SetActive(true);
 
-
+        eventNode.gameObject.SetActive(false);
     }
 
     public void EndBattle(bool win)

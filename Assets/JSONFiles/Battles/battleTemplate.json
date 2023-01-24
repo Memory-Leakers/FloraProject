@@ -1,0 +1,34 @@
+{
+    "characters": [
+        {
+            "role": 0,
+            "tilePosX": 0,
+            "tilePosY": 0,
+            "attackRange1": 1,
+            "attackRange2": 2,
+            "actions": 0,
+            "healt": 10,
+            "attack": 1,
+            "defense": 0,
+            "team": 0,
+            "movement": 2,
+            "hitRate": 1,
+            "name":"Satz"
+        },
+        {
+            "role": 0,
+            "tilePosX": 8,
+            "tilePosY": 8,
+            "attackRange1": 0,
+            "attackRange2": 0,
+            "actions": 0,
+            "healt": 2,
+            "attack": 1,
+            "defense": 0,
+            "team": 1,
+            "movement": 1,
+            "hitRate": 1,
+            "name":"Minion"
+        }
+    ]
+}
