@@ -1,0 +1,10 @@
+{
+  "Name": "Aun con miedo aceptas y te vas con Kief",
+  "Text": "Satz, con el corazón palpitando fuertemente, se preguntaba.\n '¿Quiero ir, pero podré?'.\n En su mente apareció un recuerdo de él cuando era pequeño, de cuando fueron asaltados.\n Y fue entonces cuando esas memorias, junto con la experiencia que acababa de explicar Kief provocó en Satz un sentimiento de empatía y pensó, 'Ya no estoy solo, él ha pasado por algo similar a mí'.\n Unas lágrimas salieron de sus ojos, pero rápidamente cesaron, pues no quería que Kief viera esa faceta suya.\n Con un nombre en la mente y, la sangre hirviendo, él mismo respondió su pregunta. 'Sí, iré', dijo Satz, 'Pero solo para vengarme de Norm' pensó después.\n Cuando terminó de perderse en sus pensamientos, lo vio todo mucho más claro, incluso sus ojos recuperaron un poco de vida. A pesar de su miedo fundado de lo desconocido, con una sensación de esperanza comienza a prepararse para dejar atrás su vida de esclavo.\n Kief ya estaba esperándolo en la puerta, por lo que Satz solo tuvo que confiar en él, y dar el paso.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Sales de casa con Kief",
+      "NextEvent": 22
+    }
+  ]
+}

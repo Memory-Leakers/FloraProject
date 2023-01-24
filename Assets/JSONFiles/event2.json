@@ -1,25 +1,14 @@
 {
-    "Name": "The Southern lands",
-    "Text": "There is a group of northern bandits waiting for you.",
-    "Choices" : 
-    [
-        {
-            "ChoiceText" : "Pay them.",
-            "RedChange" : -1,
-            "BlueChange" : -3,
-            "GreenChange" : -1,
-            "NextEvent" : 4
-        },
-        {
-            "ChoiceText" : "Fight them.",
-            "NextEvent" : 3,
-            "BattleID" : 0,
-            "WinBattleEvent" : 5,
-            "LoseBattleEvent" : 6
-        },
-        {
-            "ChoiceText" : "Try to run away.",
-            "NextEvent" : 7
-        }
-    ]
+  "Name": "Abres la boca",
+  "Text": "Satz abrió la boca, sintiendo la presión de las manos de Kavi en sus mejillas y forzándole a abrirla aún más. \n El rostro de Kavi se acercó amenazante. Satz observó con horror los ojos de su amo, pensando en lo que le haría si le descubría . Contuvo el aliento, esperando que así no notara el olor a Triaca salir de su garganta. Kavi frunció el ceño, y apartó a Satz de sí con un golpe.\n 'No, tú no has sido. ¡Gossal abre la boca tú también!' dijo Kavi mientras apartaba la mano de la cara de Satz y la colocaba en la cara de Gossal.\n Gossal se negó a abrirla, pero Kavi presiono fuertemente para que el dolor le acabase forzando que la abriese.\n 'Tu aliento huele a Triaca, y hace 2 días que no te doy de comer.'\n Con la mano aún presionando sus mejillas, Kavi miró hacia arriba mientras bebía de la botella. Engulló su contenido en unos pocos tragos.\n Al acabar, soltó las mejillas de Gossal, y acto seguido, le dio un potente golpe en la barriga con la botella.\n Gossal se desplomó mientras se retorcía de dolor. Volviendo a la mesa, Kavi cogió la botella de Triaca y se la tomó antes de sentarse de nuevo. Cogió el pan que había sumergido y se lo comió de tres bocados mientras miraba fijamente a Gossal.\n 'Satz, carga más mercancías a la carreta. Parece que Gossal tiene que aprender una lección' dijo Kavi.\n Satz se dirigió a la otra esquina de la casa y cargó a sus espaldas una caja llena de Triacas. Vio a Gossal observarle desde abajo.\n 'Por favor Satz que sean livianas' murmuro Gossal al pasar cerca de él.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Haces caso de Gossal e intentas sacar mercancías de la caja a escondidas",
+      "NextEvent": 4
+    },
+    {
+      "ChoiceText": "Ignoras totalmente la petición de Gossal",
+      "NextEvent": 5
+    }
+  ]
 }

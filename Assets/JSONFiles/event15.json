@@ -1,0 +1,10 @@
+{
+  "Name": "Sigues mirándolo sin hacer nada",
+  "Text": "Uno de los guardias inmovilizó a Satz mientras otro le saco de dentro de la ropa un colgante que lo identificaba como propiedad de Kavi.\n 'Mi señor Norm, este perro ya tiene amo' dijo uno de los guardias.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "El nombre de Norm te hace recordar más de tu pasado",
+      "NextEvent": 16
+    }
+  ]
+}

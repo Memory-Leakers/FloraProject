@@ -1,0 +1,10 @@
+{
+  "Name": "El nombre de Norm te hace recordar más de tu pasado",
+  "Text": "El padre cayó al suelo sangrando. Mientras su vida se iba, los bandidos se lo miraban y reían. Satz se fijó en la cara del líder quien, aun lleno de sangre y herido, reía sin cesar.\n 'Qué mala suerte, no lo podremos interrogar.' dijo el líder de los bandidos riéndose.\n 'No se preocupe mi señor Norm, aún tenemos a la mujer para ello.' dijo uno de los bandidos.\n 'Quizá el niño también conoce como entrar al santuario de los doce, al final también es un nómada.' Dijo otro bandido\n 'No seas estúpido, aún es demasiado joven para haber estado ahí' respondió el líder a su secuaz. \n 'En cambio, la mujer seguro que ha pasado la prueba. Lleváosla e interrogadla.' Ordenó.\n'¿Qué hacemos con el niño, mi señor Norm?'.\n Una sonrisa asomó por los labios del líder bandido. 'Tiradlo al río'.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Vuelves en ti",
+      "NextEvent": 17
+    }
+  ]
+}

@@ -1,12 +1,10 @@
 {
-    "Name": "Lose",
-    "Text": "The bandits slained you. Game over.",
-    "Choices" : 
-    [
-        {
-            "ChoiceText" : "Try again.",
-            "NextEvent" : 0,
-            "Restart" : 1
-        }
-    ]
+  "Name": "Satz devuelve las mercancías dentro de la caja",
+  "Text": "Kavi se dirigió al lado de su cama y se empezó a colocar con dificultad una capa negra que cubría también la cabeza.\n Satz, que ya había devuelto las mercancías, se giró mirando a Gossal. Al verle la cara pudo comprender que él le pedía que lo intentara de nuevo mientras Kavi estaba de espaldas preparándose para salir.\n Satz quería ayudarlo, pero tenía demasiado miedo.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Ignoras la petición de Gossal",
+      "NextEvent": 5
+    }
+  ]
 }

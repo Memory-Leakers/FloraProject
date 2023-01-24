@@ -1,26 +1,10 @@
 {
-    "Name": "The eastern lands",
-    "Text": "There is a group of northern bandits waiting for you.",
-    "Choices" : 
-    [
-        {
-            "ChoiceText" : "Pay them.",
-            "RedChange" : -1,
-            "BlueChange" : -3,
-            "GreenChange" : -1,
-            "NextEvent" : 4,
-            "NextNode" : 1
-        },
-        {
-            "ChoiceText" : "Fight them.",
-            "NextEvent" : 3,
-            "BattleID" : 0,
-            "WinBattleEvent" : 5,
-            "LoseBattleEvent" : 6
-        },
-        {
-            "ChoiceText" : "Try to run away.",
-            "NextEvent" : 7
-        }
-    ]
+  "Name": "Gossal y Kavi salen de casa para ir a vender las mercancías",
+  "Text": "Pasadas unas horas, Satz se encontraba trabajando de pie en una mesa situada al lado de una ventana. Estaba haciendo Triacas, el alimento necesario para sobrevivir, el que a penas podía probar. Su amo lo mataba de hambre, pero le hacía fabricar Triaca sin parar. Satz quiso enfadarse, pero el recuerdo de las palizas le hicieron volver en sí. Ese era el único motivo por el cual Kavi le seguía manteniendo, y él lo sabía.\n Disfrutaba del tiempo a solas sin Kavi alrededor, pero ese no era el motivo por el que se negaba a salir. El exterior le daba miedo. Era algo primitivo, como si su propio instinto chillara agonizando, alertándole del peligro.\n Observar la calle mientras trabajaba le hacía reforzar ese miedo. Satz lo había visto multitud de veces a través de su ventana. Robos y asesinatos. Esclavos sin señor siendo ejecutados por poner un pie en el camino de un hombre libre. Vagabundos secuestrados en plena luz del día.\n Satz se fijó en el otro lado de la calle. Había un hombre encapuchado sentado en una terraza de una taberna, que miraba fijamente a unos guardias plantados en su puerta. Estos no vestían los harapos que vestían usualmente la gente de Luma. Satz supuso que serían la guardia personal de un noble. Se sorprendió, pues nunca había visto nobles que salieran de la protección de los muros que brindaba la capital.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Sigues Trabajando",
+      "NextEvent": 7
+    }
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "Name": "Coges una herramienta afilada y sales corriendo de casa",
+  "Text": "Con la herramienta en mano, Satz salió de casa dejando la puerta entre abierta. Se plantó delante del noble, mirándolo con una cara de desprecio e ira.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Intentas clavarle la herramienta",
+      "NextEvent": 13
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Sales corriendo de casa",
+  "Text": "Satz salió de casa dejando la puerta abierta. Se plantó delante del noble, mirándolo con una cara de desprecio e ira.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Sigues mirándolo sin hacer nada",
+      "NextEvent": 15
+    }
+  ]
+}

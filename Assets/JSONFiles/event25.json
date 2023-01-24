@@ -1,0 +1,10 @@
+{
+  "Name": "Sigues trabajando",
+  "Text": "",
+  "Choices": [
+    {
+      "ChoiceText": "Sientes curiosidad, te arrimas a la venta y observas detenidamente",
+      "NextEvent": 8
+    }
+  ]
+}

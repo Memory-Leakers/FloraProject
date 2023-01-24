@@ -1,0 +1,14 @@
+{
+  "Name": "Te llenas de ira al recordar el pasado",
+  "Text": "Satz se cegó de ira, observando al noble desde su ventana. Sus temblores cesaron. Miró a la puerta de la casa de Kiev, y luego a una herramienta afilada, cerca de la mesa en la que estaba trabajando.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Coges una herramienta afilada y sales corriendo de casa",
+      "NextEvent": 11
+    },
+    {
+      "ChoiceText": "Sales corriendo de casa",
+      "NextEvent": 12
+    }
+  ]
+}
