@@ -1,0 +1,11 @@
+{
+  "Name": "Esperar a los desconocidos",
+  "Text": "Al cabo de unos minutos, las figuras llegaron hasta el carro.\n Eran campesinos.\n Su carro había sido asaltado por bandidos camino hacia la Gran Floresta. Ayudaron a reparar la rueda, y Kief les dio algo de triaca por la ayuda y la información.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Seguir adelante",
+      "NextNode": 3,
+      "NextEvent": 45
+    }
+  ]
+}

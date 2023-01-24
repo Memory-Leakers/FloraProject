@@ -1,0 +1,10 @@
+{
+  "Name": "Te acercas al lugar del accidente",
+  "Text": "Los dos pedazos de la caravana se encontraban repartidos a más de 50 pies de distancia entre sí.\n Gambud y Kief bajaron de la caravana. Satz que quedo en el piso de arriba, observando por la ventana. Sus ojos no se despegaron de donde se encontraba Kief.\n Al cabo de unos minutos, los dos comerciantes volvieron cargando una caja.\n Eran repuestos para las esferas que Satz había usado antes. No morirían de frío.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Llega la mañana",
+      "NextEvent": 39
+    }
+  ]
+}

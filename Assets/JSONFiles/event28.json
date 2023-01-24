@@ -1,0 +1,11 @@
+{
+  "Name": "Coges la ruta hacia el noroeste",
+  "Text": "‘Noroeste pues’ dijo Gambud. ‘Supongo que el chaval está acostumbrado a pasar hambre’.\n ‘No me parece mal, pero yo habría ido al Sur. No me gusta el frío’, bromeó Kief.\n Después de esto, Kief acompañó a Satz y le mostró una cama, donde dormiría a partir de entonces. Satz se durmió poco después, exhausto, asustado. Emocionado.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Os dirigís al noroeste",
+      "NextNode": 1,
+      "NextEvent": 31
+    }
+  ]
+}

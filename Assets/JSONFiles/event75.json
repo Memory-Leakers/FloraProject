@@ -1,0 +1,18 @@
+{
+  "Name": "Esperar a los demás",
+  "Text": "Al cabo de unos minutos, Kief entró en la caravana de sopetón. ‘¿Qué pasa?’ se sobresaltó Satz.\n\n ‘Los pueblerinos están muertos. Tenemos que salir de aquí’ dijo Kief a toda prisa. Gambud subió después, con el rostro claramente perturbado. Llevaba una pequeña caja con Triaca, suficiente para aguantar el resto del viaje.\n\n Satz sigió a kief hacia el asiento delantero. ‘Ha sido Norm. Tenemos que detenerlo.’ dijo Satz.\n ‘No ha sido Norm’ respondió Kief. ‘Al menos, no lo parece.’\n ‘¿Entonces quién?’.\n ‘No lo sé, por eso tenemos que salir de aquí. Sube arriba y vigila que nadie esté acercándose’.\n Satz obedeció. Subió a toda prisa a la parte superior de la caravana, y pegó la cara en el cristal de la ventana. Vio con sus propios ojos lo que había sucedido. A lo lejos, docenas de cuerpos tumbados cubrían las calles del poblado. Sin embargo, notó algo extraño. Los cuerpos no tenian armas, ni siquiera herramientas con los que parecía que se hubieran defendido de un ataque. Tampoco había ningún edificio destruido, ningún fuego provocado. Satz reflexionó sobre ello. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Los han asesinado por la noche",
+      "NextEvent": 76
+    },
+    {
+      "ChoiceText": "No han muerto por un asalto",
+      "NextEvent": 77
+    },
+    {
+      "ChoiceText": "Han muerto de forma natural",
+      "NextEvent": 78
+    }
+  ]
+}

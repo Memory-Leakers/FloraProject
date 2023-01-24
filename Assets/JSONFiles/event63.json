@@ -1,0 +1,10 @@
+{
+  "Name": "Satz se adentra en la sala",
+  "Text": "Satz se zafó del agarre de Kief, quien renegó en voz baja. Sin embargo, Satz no corrió hacia Norm. En vez de eso se adentró en la sala de la ceremonia de los Doce, ahora vacía.\n\n En el centro de la sala se encontraba, abatido, el cadáver del hombre-árbol que Norm tenía sujeto. El sonido provenía de allí. Satz se acercó, vacilante. El susurro era cada vez más fuerte. Satz se arrodilló junto a la criatura. Y la tocó.\n\n El susurro pasó a ser una voz. ‘Satz Limbu’. La voz era débil. Las últimas palabras de un ser que parecía más antiguo que el tiempo. ‘Recupérala’. Satz se dio cuenta de que sabía como comunicarse con el ser, como si siempre hubiera sabido hacerlo ‘¿El qué, quién eres?’ respondió Satz. ‘Recupera la semilla robada’ fue la única respuesta. Una imagen invadió la mente de Satz, y comprendió a lo que el ser se refería. Norm había robado dicha semilla. Pero, ¿qué era aquello? ¿Y por qué tenía que recuperarla él? Satz se disponía a hacer estas preguntas, cuando el susurro se desvaneció. El hombre-árbol estaba muerto. Y Satz tenía una marca dorada en la palma de su mano, con forma de ramas expandiéndose. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Pasa el tiempo",
+      "NextEvent": 64
+    }
+  ]
+}

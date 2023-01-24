@@ -1,0 +1,10 @@
+{
+  "Name": "Esperar a los desconocidos",
+  "Text": "",
+  "Choices": [
+    {
+      "ChoiceText": "Seguir adelante",
+      "NextEvent": 45
+    }
+  ]
+}

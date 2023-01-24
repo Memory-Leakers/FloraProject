@@ -1,0 +1,11 @@
+{
+  "Name": "No dices nada",
+  "Text": "Kief suspiró. ‘Supongo que aún no estás listo para tomar decisiones por tu cuenta. No te preocupes, esta vez decidiré por ti’.\n ‘¿Hacia el norte? No querría encontrar bandidos. Mi puntería ya no es lo que era’. dijo Gambud.\n ‘No, detesto el frío. Además, podríamos morir de hambre de camino al festival. Vamos por el Sur.’ respondió Kief decidido.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Os dirigís al sur",
+      "NextNode": 2,
+      "NextEvent": 32
+    }
+  ]
+}

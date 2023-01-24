@@ -1,0 +1,11 @@
+{
+  "Name": "Observar",
+  "Text": "Satz decidió que no había motivo para alarmarse.\n Esperó unos minutos, hasta que las figuras se acercaron.\n Eran campesinos.\n Por lo que le contó Kief más adelante, su carro había sido asaltado por bandidos camino hacia la Gran Floresta.\n Ayudaron a reparar la rueda, y Kief les dio algo de Triaca por la ayuda y la información.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Seguir adelante",
+      "NextNode": 3,
+      "NextEvent": 45
+    }
+  ]
+}

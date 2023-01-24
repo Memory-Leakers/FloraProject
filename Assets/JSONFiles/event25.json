@@ -1,10 +1,10 @@
 {
-  "Name": "Sigues trabajando",
-  "Text": "",
+  "Name": "Te encuentras con Kief",
+  "Text": "Al llegar, Satz vio a Kief.\n Por una parte, Satz esbozó una sonrisa en su rostro y supo que todo su esfuerzo hasta ahora había valido la pena.\n Pero por otra lamentaba la perdida de su compañero Gossal.\n Satz se paró delante de Kief, se puso de rodillas y bajo la mirada.\n Subió la mirada para ver a Kief. Kief se fijó en sus ojos llenos de esperanza.\n Satz estaba a punto de empezar a disculparse para que le dejara viajar con él. Pero Kief le interrumpió y dijo 'No hace falta que digas nada. Tus ojos lo han dicho todo por ti'.\n Se pararon delante de una caravana de color granate y, con el tejado de color negro. La cual, desde fuera, se veía muy antigua.\n Kief, suspiro e hizo una serie de golpes a la puerta, algún tipo de código, supuso Satz, y esta se abrió de golpe. De ella apareció un viejo, aún más viejo que Kief. Tenía el cuerpo escuálido y su cabeza parecía coronada por pelo canoso.\n Era de estatura baja, más incluso que Satz.\n ‘¿Quién es este, uno de tus vástagos?’ Dijo el viejo tosiendo de la risa mientras bajaba los escalones de la caravana.\n ‘Gambud…’ alargo la mano hacia Satz como si este quisiera que se la cogiese.\n Instintivamente, Satz lo apartó del camino y subió de un brinco a la caravana.\n ‘¿Está todo listo?’ pregunto Kief inclinando la cabeza dentro de la carroza para inspeccionarla ‘¿También has cogido los obsequios, verdad?’ saco la cabeza otra vez fuera y se giró hacia Gambud. El cual asintió mientras renegaba entre dientes.\n ",
   "Choices": [
     {
-      "ChoiceText": "Sientes curiosidad, te arrimas a la venta y observas detenidamente",
-      "NextEvent": 8
+      "ChoiceText": "Gambud cierra la puerta de la caravana",
+      "NextEvent": 26
     }
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "Name": "Empieza la ceremonia, entras al Santuario",
+  "Text": "La caravana de Kief se adentró en el santuario. Era una construcción monumental que se hundía bajo suelo, hasta llegar a las raíces del árbol. Cabían por ella docenas de caravanas de nómadas. El ritual consistía en recorrer el templo hasta llegar a la sala de los doce. Allí, cada nómada podía hacer una oración al árbol, y tocar sus raíces.\n\n Durante el camino, Kief contó a Satz acerca de la historia del Árbol Moribundo. Al parecer, para los nómadas el Árbol Moribundo era la representación de la vida en el mundo. Para otras culturas, como la de la Gran Floresta, el Gran Árbol era el que representaba la vida. El Gran Árbol se encontraba al sur. La capital de la Gran Floresta se construyó a su alrededor. \n\n A Satz todo esto le pareció algo absurdo, pero escuchó con atención de todas formas. El viaje era fascinante, podían verse las raíces del árbol aparecer de entre las paredes. Durante todo el trayecto, Satz no pudo evitar notar que el susurro era cada vez más fuerte. Concluyó que tendría algo que ver con el árbol, quizá.\n\n Kief le contó que las raíces de la Triaca provenian de este árbol, a pesar de lo que dijeran los religiosos de la floresta. \n ‘Si en la Gran Floresta creen que este es el árbol de la muerte, ¿por qué vienen a adorarlo?’ preguntó Satz de pronto.\n ‘No vienen a adorarlo, sino a rendirle respeto. Dicen que la muerte es parte de la vida’ Satz encontró ridícula la idea. La muerte es el final de la vida, no parte de ella. Siguieron avanzando.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Llegan al final del recorrido",
+      "NextEvent": 61
+    }
+  ]
+}

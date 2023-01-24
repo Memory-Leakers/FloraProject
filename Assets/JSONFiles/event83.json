@@ -1,0 +1,11 @@
+{
+  "Name": "Explicar a los demás tu teoría",
+  "Text": "Tras una larga explicación, y muchas miradas confusas, Satz consiguió convencer a los demás de que la Triaca que habían traído del pueblo ya no surtiría efecto. Satz inspeccionó las otras botellas, las que llevaban de antes, y descubrió aliviado que estas sí emitían el sonido aún. Quizá solo afecta a las que han fabricado después de la muerte del árbol, pensó Satz.\n\n Kief se deshizo de las botellas. ‘Buen trabajo Satz. Si no nos lo hubieras dicho, habríamos muerto por intoxicación en menos de un día. El efecto de la intoxicación es rápido y apenas perceptible’.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Encuentro en el camino",
+      "NextNode":  10,
+      "NextEvent": 84
+    }
+  ]
+}

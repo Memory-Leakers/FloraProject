@@ -1,0 +1,10 @@
+{
+  "Name": "Llegas al lugar de la celebración",
+  "Text": "Los restos del tallo del árbol moribundo se vislumbraban en el horizonte. A ambos lados, unas altas torres torcidas salientes de las montañas del valle daban la bienvenida. Satz quedo anonadado al presenciar semejante escena. Sus ojos no se despegaban del árbol. Sentía familiaridad, como si lo hubiera visto antes. Además, el susurro era más fuerte que nunca. Casi distinguía una voz en él.\n Satz se encontraba junto a Kief, quien conducía la caravana. Gambud dormía en su cama, se habían ido turnando durante todo el viaje.\n Atravesando ya las torres, Satz se fijó en dos enormes puertas que se encontraban debajo de las torres, parcialmente escondidas por la maleza.\n ‘Los portones del Santuario de los doce’ dijo Kief sonriendo. ‘Aún se mantienen cerrados, hemos llegado a tiempo’ miro a Satz, este se enrojeció al ver la sonrisa.\n ‘¿Ves eso de ahí? Esa gran tienda’ Kief señalo a los pies del árbol moribundo.\n En los pies del árbol se podían ver todas las tiendas rodeando a una de mayor. Ninguna era de igual forma, todas tenían tamaños y colores distintos. Entre ellas y los alrededores se encontraban centenares de caravanas, todas colocadas de manera ordenada y con lógica.\n ‘Este año apenas rodeamos un cuarto del tronco, cada vez somos menos’ dijo Kief con su sonrisa apagándose.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Entras al campamento",
+      "NextEvent": 46
+    }
+  ]
+}

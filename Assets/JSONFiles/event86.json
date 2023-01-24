@@ -1,0 +1,11 @@
+{
+  "Name": "Aceptar a Ilvana en el equipo",
+  "Text": "‘Creo que nos haría falta tu ayuda, Ilvana.’ Era cierto, ninguno de ellos eran guerreros.\n\n ‘Gracias, Guardián. Puedo ir en mi Graphorn, si es necesario’.\n\n Avanzáis hacia la Gran Floresta, que se encuentra ya cerca.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Avanzáis hacia la Gran Floresta con Ilvana",
+      "NextNode": 5,
+      "NextEvent": 88
+    }
+  ]
+}

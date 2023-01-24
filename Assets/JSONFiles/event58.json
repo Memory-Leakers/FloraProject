@@ -1,0 +1,14 @@
+{
+  "Name": "Comitiva de Luma",
+  "Text": "Al llegar frente la comitiva de Luma unos guardias los detuvieron. Tenían encerrado el perímetro. Satz pudo ver el interior de una de las tiendas a través de los guardias. Había centenares de cajas abiertas con raíces de plantas. Lo pudo discernir bien, estaban fabricando triacas.\n\n ‘Bueno, aquí no nos quieren’ dijo Kief.\n",
+  "Choices": [
+    {
+      "ChoiceText": "La comitiva de la Floresta",
+      "NextEvent": 59
+    },
+    {
+      "ChoiceText": "Empieza la ceremonia, entras al Santuario",
+      "NextEvent": 60
+    }
+  ]
+}

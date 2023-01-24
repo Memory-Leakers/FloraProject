@@ -1,0 +1,18 @@
+{
+  "Name": "Salís corriendo hacia la caravana",
+  "Text": "Al cabo de unos minutos, Kief y Satz entraron en la caravana de sopetón. ‘¿Qué pasa?’ se sobresaltó Gambud.\n\n ‘Los pueblerinos están muertos. Tenemos que salir de aquí’ dijo Kief a toda prisa.\n\n Satz siguió a Kief hacia el asiento delantero. ‘Ha sido Norm. Tenemos que detenerlo.’, dijo Satz.\n ‘No ha sido Norm’ respondió Kief. ‘Al menos, no lo parece.’\n ‘¿Entonces quién?’.\n ‘No lo sé, por eso tenemos que salir de aquí. Sube arriba y vigila que nadie esté acercándose’.\n Satz obedeció. Subió a toda prisa a la parte superior de la caravana, y pegó la cara en el cristal de la ventana. A lo lejos, docenas de cuerpos tumbados cubrían las calles del poblado. Sin embargo, notó algo extraño. Los cuerpos no tenían armas, ni siquiera herramientas con los que parecía que se hubieran defendido de un ataque. Tampoco había ningún edificio destruido, ningún fuego provocado.\n Satz reflexionó sobre ello. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Los han asesinado por la noche",
+      "NextEvent": 76
+    },
+    {
+      "ChoiceText": "No han muerto por un asalto",
+      "NextEvent": 77
+    },
+    {
+      "ChoiceText": "Han muerto de forma natural",
+      "NextEvent": 78
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "Os alejáis",
+  "Text": "Unos minutos después, el conflicto parecía haber acabado. Norm salió de la sala junto a sus soldados, con aspecto triunfante. Satz intento volver a desenvainar la espada para lanzarse contra Norm, pero Kief lo volvió a detener. ‘¡Estate quieto!’ Le susurró vehemente. ‘No seas estúpido, te matarán sin problemas.’ Satz no estaba dispuesto a ceder. Si podía aprovechar esa oportunidad para dar muerte a Norm, la aprovecharía.\n Sin embargo, un susurro le hizo detener su impulso. No era una voz, pero le hablaba. No entendía lo que decía. Provenía de la sala. Se giró a Kief, mirando si él también oía el sonido. No parecía ser así, ni nadie contemplando la marcha de Norm tampoco.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Satz se adentra en la sala",
+      "NextEvent": 63
+    }
+  ]
+}

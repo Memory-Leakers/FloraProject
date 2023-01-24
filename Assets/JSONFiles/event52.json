@@ -1,0 +1,11 @@
+{
+  "Name": "Victoria",
+  "Text": "Cuando se calmó el fragor de la batalla, Kief encontró a Satz, herido pero a salvo. ‘No ha estado mal chaval, te desenvuelves bien con eso.’ Satz asintió, sin aliento. Se sentía vivo. Nunca había hecho algo como eso. No lo había disfrutado, pero le gustó sentirse en control de la situación.\n\n Los comerciantes rescatados trataron al grupo como reyes. Les invitaron a comer, y les ofrecieron parte de sus reservas de Triaca para el camino.\n\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Seguir adelante",
+      "NextNode": 10,
+      "NextEvent": 45
+    }
+  ]
+}

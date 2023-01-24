@@ -1,0 +1,11 @@
+{
+  "Name": "Avanzar aprovechando la confusión de la batalla",
+  "Text": "Por mucho que les doliera, no podían ayudar a los comerciantes. Kief dirigió la caravana a toda prisa a través del campo de batalla, esquivando como podía los grupos de bandidos dispersos. En menos de un minuto, habían cruzado. Kief suspiró, aliviado. Gambud volvió a su cama, y no volvió a hablar hasta el día siguiente.\n\n",
+  "Choices": [
+    {
+      "ChoiceText": "Seguir adelante",
+      "NextNode": 10,
+      "NextEvent": 54
+    }
+  ]
+}

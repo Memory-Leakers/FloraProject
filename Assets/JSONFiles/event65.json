@@ -1,0 +1,10 @@
+{
+  "Name": "Contar a Ilvana lo que ha sucedido",
+  "Text": "‘Cuando llegamos Norm ya había matado a los doce. Luego ha seguido matando hasta llegar a la salida del altar’.\n\n Ilvana hizo una mueca y renegó algo entre dientes. ‘¿Y el Guardián?’\n ‘Muerto.’\n Satz no era muy hábil con las palabras. Tampoco comprendía muy bien qué tipo de cosas encuentran perturbadoras los demás. Por eso, se sorprendió al ver la cara de estupefacción de Ilvana. ‘¿Muerto?’ dijo ella después de una pausa.\n\n Una hoja cayó del cielo, encima de la mano de Satz. Ambos levantaron la vista, hacia las ramas del Árbol Moribundo. Miles de hojas cayendo cubrían el cielo. El árbol nunca había perdido su follaje. ‘Está muriendo’ dijo Ilvana en un susurro. Ilvana miró la mano de Satz, marcada con el símbolo, y la agarró con fuerza al instante. ‘¿Cómo te has hecho esto?’\n Satz se asustó ante la agresividad repentina, pero trató de mantener la calma. ‘Yo… toqué al Guardián. Al morir. Creo que me lo hizo él’. Ilvana parecía haber perdido la voz. ‘¿Qué pasa?’ dijo Satz, poniéndose nervioso. \n\n Ilvana le soltó. Le miró directamente a los ojos, y Satz vio en ellos una mezcla de miedo e incredulidad. \n\n ‘Eres el nuevo Guardián’.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Eres el nuevo Guardián",
+      "NextEvent": 67
+    }
+  ]
+}

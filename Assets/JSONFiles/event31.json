@@ -1,0 +1,16 @@
+{
+  "Name": "Os dirigís al noroeste",
+  "Text": "Ya era de noche cuando Kief empezó a preparar la comida. Solo se oía el traqueteo de la caravana en el ambiente.\n Un estruendo en la lejanía, como de árboles rompiendo y cayendo, interrumpió a Kief.\n Provenía del sur, e hizo despertar a Satz, haciéndole caer de la cama del susto.\n Satz volvió a subirse a la cama, pegando la cara por la ventana. Todo estaba oscuro, no pudo discernir nada. Saltó directo hacia otra cama, intentando observar por otro ángulo, pero no podía ver más allá de la densa neblina en la lejanía. De pronto, una serie de luces rojas aparecen en el horizonte. Le recordaban al fuego.\n ‘Bandidos… o quizá fanáticos…dijo Kief en voz alta mientras subia por las escaleras con un vaso de porcelana que desprendía vapor. ‘Cuatro… cinco… ocho… ¿doce?’ Kief se inclinó mirando por la misma ventana de Satz. ‘¡Vienen hacia aquí!’ alerto alzando la voz.\n Bajó de nuevo y entreabrió la puerta que daba al conductor ‘¡Gambud!’ suspiro ‘¡Luces de Isir! A unas cuarenta y siete ramas…’ Cogió las cuerdas del carruaje sustituyendo a Gambud.\n ‘Aún están lejos.’ dijo Kief ‘Las fuentes de luz y de calor lo atraen. Podríamos apagar las luces y escondernos detrás de esos árboles’ dijo Gambud mientras entraba al piso inferior. ‘O podríamos rebasar su velocidad y seguir adelante. Nada nos garantiza que no de media vuelta si lo dejamos pasar.’\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Apagas las luces, te escondes",
+      "NextNode": 13,
+      "NextEvent": 33
+    },
+    {
+      "ChoiceText": "Aumentas la velocidad, sigues tu camino",
+      "NextNode": 7,
+      "NextEvent": 34
+    }
+  ]
+}

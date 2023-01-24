@@ -1,0 +1,18 @@
+{
+  "Name": "No han muerto por un asalto",
+  "Text": "No había ningún indicio de pelea, ni de intento de defensa. Los campesinos no habían muerto por un asalto. Pero, ¿cómo? Quizá envenenaron su comida, pero la Triaca haría de antitoxina para cualquier tipo de veneno, y eso todo el mundo lo sabía. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Una enfermedad ha acabado con ellos",
+      "NextEvent": 80
+    },
+    {
+      "ChoiceText": "Han cometido suicidio colectivo",
+      "NextEvent": 81
+    },
+    {
+      "ChoiceText": "La Triaca ya no hace efecto",
+      "NextEvent": 82
+    }
+  ]
+}

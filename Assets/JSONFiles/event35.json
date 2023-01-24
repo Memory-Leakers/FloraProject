@@ -1,0 +1,10 @@
+{
+  "Name": "Pasa el tiempo",
+  "Text": "Aún era de noche. Habían pasado ya algunas horas. Las luces de Isir ya no se veían por ningún lado. Hacía un rato que los fuertes estruendos que provocaban las luces habían cesado. La caravana había seguido su rumbo dirección norte.\n Kief subió arriba para volver a encender la fogata. Abrió el cofre de esferas, encontrando tan solo cuatro encendidas. Lanzar las esferas encendidas dentro había provocado que las demás se consumieran.\n ‘¡Satz, imbécil, ¿pero qué has hecho?!’ el grito le provocó un escalofrío que le recorrió la espina, recordando la voz de Kavi.\n Kief volvió a meter las esferas en la fogata. Bajó de nuevo, encontrando a Satz agachado con las manos encima de la cabeza.\n Al verlo, Kief no pudo evitar sentir una punzada de culpa. No podía estallar así. Intentó buscar palabras para disculparse, pero no las encontró.\n Se giró hacia Gambud.\n ‘Satz ha apagado la fogata devolviendo las esferas al cofre’. Su tono era un poco más calmado.\n ‘Estamos cada vez más al norte y nos hemos quedado sin fuente de calor. Perfecto’ contestó el anciano renegando.\n ‘Sabes que es tu culpa, lo podrías haber apagado tú’ miro a Gambud, el cual intentaba ignorar la conversación.\n ‘Soy demasiado viejo para subir y bajar esas escaleras’\n ",
+  "Choices": [
+    {
+      "ChoiceText": "La caravana sigue adelante",
+      "NextEvent": 36
+    }
+  ]
+}

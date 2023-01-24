@@ -1,0 +1,14 @@
+{
+  "Name": "El Viaje",
+  "Text": "Estaba anocheciendo cuando Satz empezó a escuchar el susurro de nuevo. A cada minuto que pasaba, se hacía ligeramente más fuerte, más claro. Sabía que se estaban acercando. Varias preguntas afloraron en su mente. ¿Por qué robaría Norm la semilla? Por lo que observó Satz estos últimos días, nadie había hablado nunca de ella. ¿Para qué servía?\n\n Kief sacó a Satz de sus cavilaciones. ‘¿Todo bien?’ dijo el viejo comerciante. Satz asintió.\n ‘Cuando encontremos un pueblo pararemos para comprar Triaca. Intenta no llamar la atención, no queremos que vean esa marca tuya’ dijo Kief señalando su mano.\n Satz no estaba seguro de si debía escuchar a Kief. Si él era el nuevo Guardián, ¿por qué debería esconderse?\n\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Tratar de no llamar la atención",
+      "NextEvent": 72
+    },
+    {
+      "ChoiceText": "Salir sin miedo",
+      "NextEvent": 73
+    }
+  ]
+}

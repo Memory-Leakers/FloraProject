@@ -1,0 +1,19 @@
+{
+  "Name": "Pones la oreja en la pared para escuchar la conversación",
+  "Text": "‘¿Nadie vendrá a buscarlo?’ Era la voz de Gambud. ‘Es raro que un esclavo con amo desaparezca y no lo acaben encontrando.’. ‘No si nos vamos cuanto antes. ¿Está todo listo?’ Respondió Kief.\n ‘A penas tenemos Triaca para llegar a medio camino de Ur. Deberíamos encontrar algo por el camino. O pasar hambre’.\n ‘No crecen frutos en el camino de aquí a Ur y mucho menos plantas para fabricar triacas’ indicó Kief. Podríamos ir por el sur, dirección a la Gran Floresta.\n ‘El camino es el doble de largo. Y si no me falla la memoria ese es el camino en el que nos emboscaron la última vez que fuimos para el gran festival.’\n Es una decisión difícil, pensó Kief, pero debían marchar ya. Noroeste, hacia Ur, donde podrían morir de hambre antes de encontrar civilización. O al sur, donde abundan las plantas para crear triacas, pero también los maleantes.\n Un golpe sordo sonó al otro lado de la caravana. Kief abrió la puerta, descubriendo al muchacho que acababa de rescatar con la cara contra el suelo. De alguna manera se había caído de una silla.\n ‘¿Espiándonos chaval?’ Dijo Kief con una sonrisa. ‘Al menos es precavido’, pensó. Satz se incorporó, con la mirada baja. ‘Necesita ver que puede confiar en nosotros’, reflexionó Kief.\n ‘Dime Satz, ya que tanto te interesaba nuestra conversación, ¿hacia dónde crees que deberíamos ir?’\n ",
+  "Choices": 
+  [
+    {
+      "ChoiceText": "Coges la ruta hacia el noroeste",
+      "NextEvent": 28
+    },
+    {
+      "ChoiceText": "Coges la ruta hacia el sur",
+      "NextEvent": 29
+    },
+    {
+      "ChoiceText": "No dices nada",
+      "NextEvent": 30
+    }
+  ]
+}

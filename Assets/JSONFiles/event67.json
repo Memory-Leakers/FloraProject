@@ -1,0 +1,10 @@
+{
+  "Name": "Eres el nuevo Guardián",
+  "Text": "Unos minutos después, Satz se encontraba dentro de la caravana de Kief junto a Ilvana y Gambud. Ilvana le había traído corriendo hacia allí, asegurándose de que nadie viera la marca en su mano. \n\n ‘Menuda locura’ dijo Gambud con un resoplido. ‘El Guardián es un ser místico. No puede ser que haya elegido a un mequetrefe cualquiera como heredero del título.’ Se hizo un largo silencio.’Además, tanto el Guardián como los doce son ciegos y su piel parece corteza. Satz no tiene nada de eso.’ Finalizó mientras movía la mano abierta delante de la cara del joven.\n\n ‘Y, sin embargo, ahí está su marca’ respondió Ilvana. ‘Os aseguro que no me equivoco. Este chico es el nuevo Guardián’. Satz estaba al borde del colapso. ¿El nuevo Guardián? Eso no tenía sentido. Apenas sabía nada acerca de religión, ¿y ahora era el líder de una?\n\n ‘Puede que fuera casualidad. El chico tocó al Guardián antes de morir. Quizá solo por eso tiene la marca’ señaló Kief.\n\n ‘Eso no quita que lo haya elegido el Guardián. Deberíamos devolverlo al templo. Quizá pueda resucitar al antiguo Guardián. O algo así’ Ilvana no sonaba muy convencida.\n\n Satz dejó de escuchar. Podría ser que el Guardián sí lo hubiese escogido. Le dijo algo antes de irse. Que buscara la semilla. Lo que había robado Norm…\n\n ‘Creo que sé lo que tengo que hacer’ interrumpió Satz de golpe. \n Quizá sí fuera el elegido por el Guardián. Quizá no lo fuera. Pero no podía dejar pasar una oportunidad como esta.\n\n ‘Tenemos que ir a por Norm’ sentenció Satz.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Venganza",
+      "NextEvent": 68
+    }
+  ]
+}

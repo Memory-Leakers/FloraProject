@@ -1,0 +1,10 @@
+{
+  "Name": "Han cometido suicidio colectivo",
+  "Text": "Puede que todos los habitantes hayan decidido suicidarse al mismo tiempo. Era improbable, pero, ¿por qué no? Sin embargo, debería haber un motivo. A Satz no se le ocurrió qué podría haber causado tal cosa. Descartó la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Seguís hacia la Gran Floresta",
+      "NextEvent": 79
+    }
+  ]
+}

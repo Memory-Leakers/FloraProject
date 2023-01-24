@@ -1,0 +1,10 @@
+{
+  "Name": "Seguís hacia la Gran Floresta",
+  "Text": "Al cabo de unas horas, el estómago de Satz empezó a rugir. Empezó a comer junto a Kief, y usaron la Triaca que habían sacado del pueblo. Satz aún estaba pensando en qué podría haber hecho que tantos pueblerinos murieran. Decidió preguntar a Kief. ‘¿Cómo crees que han muerto los pueblerinos de antes?’.\n Kief acabó de masticar y engullir la comida con la Triaca.\n ‘No lo sé, Satz. Parecía que hubieran muerto de golpe, como si todos hubieran tenido un infarto a la vez’.\n ‘Quizá los envenenaron’ Sugirió Satz.\n ‘¿A todos a la vez? Imposible.’ Kief siguió masticando ‘Además, la Triaca cura cualquier tipo de veneno. Todo el mundo lo sabe’ pronunció Kief con la boca llena.\n Satz asintió, distraído.\n ‘¿Y si la Triaca no hiciese efecto?’ Se preguntó como sería aquello. Nunca había visto a alguien morir de intoxicación.\n Kief guardó silencio y dejó de masticar.\n Satz se giró hacia él, y vio como los ojos del viejo comerciante miraban a la botella de Triaca fijamente. \n\n La Triaca ha dejado de hacer efecto, concluyó horrorizado Satz.\n\n Unas horas más tarde, la intoxicación se abrió paso y acabó con la vida de todos los pasajeros de la caravana.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "GAME OVER",
+      "NextEvent": 71
+    }
+  ]
+}

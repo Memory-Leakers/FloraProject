@@ -1,0 +1,14 @@
+{
+  "Name": "Entras al campamento",
+  "Text": "Había personas por todos lados. Satz se ponía cada vez más y más nervioso. La puerta delantera se abrió de golpe, saliendo de ella Gambud. Del susto Satz pego un bote que lo hizo llegar a su límite. Gambud se apartó a un lado, mirándole con un ojo entreabierto. Satz lo entrando lo más rápido posible. Subió las escaleras. Desde la ventana de su cama empezó a observar a la gente con tranquilidad.\n\n Unos hombres uniformados pararon la caravana ‘¡Lo sabía! Problemas’ seguía pensando Satz mientras observaba la escena. Uno de los hombres hizo una señal como si apuntara a un lugar. La carroza hizo un giro de media vuelta con los dos hombres andando de espaldas delante. A los treinta pies la carroza se detuvo. Los hombres hicieron una pequeña reverencia con una mano en el pecho y la otra en la espalda. Al acabar se fueron por donde habían venido.\n\n Kief y Gambud entraron dentro de caravana. Satz podía escuchar el ruido de cajas y otros objetos siendo movidos.\n\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Te quedas observando",
+      "NextEvent": 48
+    },
+    {
+      "ChoiceText": "Bajas a ayudar",
+      "NextEvent": 49
+    }
+  ]
+}

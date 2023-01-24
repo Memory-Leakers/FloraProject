@@ -1,0 +1,10 @@
+{
+  "Name": "Llega la mañana",
+  "Text": "Al amanecer, Kief vio en el horizonte la silueta del campamento nómada. Quedaba poco para llegar al festival.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Llegas al campamento nómada",
+      "NextEvent": 42
+    }
+  ]
+}

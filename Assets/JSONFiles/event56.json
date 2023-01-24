@@ -1,0 +1,10 @@
+{
+  "Name": "Preguntar sobre los Nómadas",
+  "Text": "‘¿Cuántos seremos allí, habrá muchos nómadas?’ pregunto Satz.\n ‘Más de los que sueles ver juntos, sí. Pero aun así no somos demasiados. La vida nómada es dura. Cada vez hay más bandidos ahí fuera, y muchos nómadas han decidido asentarse en los últimos años. El camino se ha vuelto demasiado peligroso.’\n Satz lo sabía muy bien. El nombre de Norm volvió a invadir su mente.\n ‘Pero somos importantes, ¿sabes? La Triaca se fabrica usando tres raíces. Y ninguno de los tres reinos tiene suficiente de cada tipo como para sostenerse por si solo. Sin el comercio, no existiría ningún reino. Ninguna civilización. Somos necesarios’.\n Satz lo sabía. Aquello le recordaba a lo que su padre le solía decir. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Preguntar sobre Norm",
+      "NextEvent": 55
+    }
+  ]
+}

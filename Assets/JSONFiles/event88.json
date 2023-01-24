@@ -1,0 +1,11 @@
+{
+  "Name": "Avanzáis hacia la Gran Floresta con Ilvana",
+  "Text": "A medida que la caravana se acercaba a la Gran Floresta, la silueta del Gran Árbol se empezaba a percibir en el horizonte. Era más alto que cualquier montaña que Satz hubiera visto jamás. Más alto aún que el Árbol Moribundo. Sintió fascinación, pero en su interior, también sintió un miedo inexplicable. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Llegáis a la Gran Floresta",
+      "NextNode": 12,
+      "NextEvent": 90
+    }
+  ]
+}

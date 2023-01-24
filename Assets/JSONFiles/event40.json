@@ -1,0 +1,14 @@
+{
+  "Name": "Avisarles gritando, desde la ventana",
+  "Text": "Satz abrió la ventana de golpe. Con sumo esfuerzo, ya que no acostumbraba a gritar, chilló: ‘¡Cuidado, se acerca gente!’. Gambud y Kief se giraron hacia Satz, confusos.\n Después miraron hacia donde señalaba el joven. Las figuras, aún lejos, eran difíciles de distinguir.\n Los dos comerciantes murmuraron entre ellos. Satz no podía distinguir lo que decían.\n ‘Aún están lejos. Si reparamos esto a tiempo podemos desviarnos. No parece que lleven Graphorns, así que dudo que nos alcancen’ dijo Gambud.\n ‘Pero podrían no ser bandidos. Si no lo son, podrían echarnos una mano con esto’ dijo Kief señalando la rueda rota.\n La decisión era suya, al fin y al cabo.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Esperar a los desconocidos",
+      "NextEvent": 43
+    },
+    {
+      "ChoiceText": "Reparar la rueda y tomar un desvío",
+      "NextEvent": 44
+    }
+  ]
+}

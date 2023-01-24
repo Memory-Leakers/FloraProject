@@ -1,0 +1,18 @@
+{
+  "Name": "La comitiva de Ur",
+  "Text": "Volvió a cerrar la tapa ‘Todo en orden. Podéis entrar’ dijo uno de los guardias que guardaban la tienda principal de Ur. Satz entró primero.\n\n El interior de la tienda era cálido y humilde. Dos largas mesas se extendían de punta a punta. En ambos lados de ellas dos bancos de madera igual de largos. En las puntas dos fogatas de hierro como las de la caravana.\n La tienda estaba repleta de gente, tanto soldados como campesinos.\n El guardia los acompañó hasta una mujer sentada a un extremo de la mesa. ‘Capitana, estos son los nómadas’ dijo antes de marcharse.\n ‘Ilvana, capitana de los muros de Ur. Un placer…’ se levantó y alargo la mano hacia Kief ‘Kief, sin título’ respondió devolviendo el saludo.\n\n Ilvana vestía una armadura de cuero. Tenía el pelo corto, color castaño oscuro. Era casi tan alta como Kief, pero más robusta. \n\n ‘Solo has de firmar aquí y el trato será efectivo’ dijo Ilvana dejando ir un suspiro. Kief cogió el papel y lo leyó detenidamente. ‘Un simple contrato de compras. Pero hay algo que no entiendo, me sorprende que estéis pagando precios por encima del mercado’ la mujer miró hacia una caja que había en una esquina ‘Eso de ahí son todas las triacas que nos quedan’ suspiró ‘Fuimos asaltados de camino al festival’.\n\n ‘Las orgullosas gente de Ur siendo asaltados por bandidos’ dijo Kief con tono burlón. ‘Luces de Isir…’ contestó. Kief cambió el rostro de inmediato. ‘Luces en el norte… lo siento’\n\n ‘No es necesario. Lucharon con honor’. El rostro de Ilvana era impasible. Kief agachó la mirada.\n\n ‘Bueno, ha sido un placer. Nos vemos’ dijo apresurado, llevándose a Satz junto a él al exterior.\n\n ‘Podemos ir directamente a presenciar la ceremonia, si quieres. Pero ya que te he prometido libertad, te dejaré escoger ir a ver las demás comitivas. Aunque no te puedo asegurar que nos dejen pasar.’ dijo Kief.\n\n ",
+  "Choices": [
+    {
+      "ChoiceText": "La comitiva de Luma",
+      "NextEvent": 58
+    },
+    {
+      "ChoiceText": "La comitiva de Floresta",
+      "NextEvent": 59
+    },
+    {
+      "ChoiceText": "Empieza la ceremonia, entras al Santuario",
+      "NextEvent": 60
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "Name": "Venganza",
+  "Text": "Los tres miraron a Satz estupefactos. \n\n ‘Norm ha robado algo. No sé que es, pero el Guardián me dijo que debemos recuperarlo’. Esperaron a que continuara, pero Satz no tenía nada más que decir. No era muy bueno con las palabras.\n\n ‘Maldita sea. ¿De verdad te habló el Guardián?’ dijo Kief al cabo de unos instantes. Satz asintió.\n ‘¿Y te dijo que debías ir a por Norm?’ preguntó Ilvana. Satz volvió a asentir. No fue exactamente lo que dijo, pero podía permitirse el lujo de mentir un poco.\n ‘Vamos a hacerlo, entonces’ dijo Gambud, levantándose de la silla en la que había estado sentado durante toda la conversación.\n\n ‘Estáis locos, nunca podríamos con él. Norm tiene un ejército, tiene dinero, tiene poder’ dijo Kief.\n\n ‘Y nosotros tenemos al Guardián’ respondió Gambud. \n\n Hubo un silencio. Kief miró por la ventana, hacia los restos calcinados de lo que una vez había sido su único hogar. ‘Muy bien. Vamos a hacerlo. ¿Cuál es el plan?’.\n\n Todos se giraron a Satz. Este enmudeció. No tenía ni idea de como empezar.\n\n Ilvana tomó la palabra. ‘Podemos ir a Ur. Puedo tratar de convencer a la asamblea de que nos preste parte del ejército.’\n\n ‘La asamblea no nos va a prestar nada’ dijo Kief con cierto tono de desprecio. ‘La última vez que estuve allí me quedó muy claro que los de Ur solo atienden a sus propios asuntos’.\n\n Ilvana se encaró con Kief, y ambos empezaron a discutir. Gambud se acercó a Satz. ‘La decisión es tuya, chaval. Ten cuidado con la soldado, no la conocemos suficiente como para confiar en ella aún’.\n\n Satz inspiró hondo. Y entonces sintió el mismo susurro de nuevo. Pero ahora era lejano, apenas perceptible, pero sabía que le llamaba. Venía del sur. De la Gran Arboleda. Norm iba hacia allí, estaba seguro. Pero, ¿podría vencerlo sin un ejército? Quizá podría ir con Ilvana al norte primero.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Ir al norte, hacia Ur, junto a Ilvana (No terminado)",
+      "NextEvent": 69
+    },
+    {
+      "ChoiceText": "Ir al sur, hacia la Floresta, y dejar a Ilvana atrás",
+      "NextEvent": 70
+    }
+  ]
+}

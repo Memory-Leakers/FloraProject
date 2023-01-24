@@ -1,0 +1,10 @@
+{
+  "Name": "Prosigues tu camino",
+  "Text": "Aunque inspeccionar la caravana era tentador, ya habían perdido demasiado tiempo esquivando las luces de Isir. Debian continuar el camino si querían llegar al gran festival a tiempo.\n",
+  "Choices": [
+    {
+      "ChoiceText": "Llega la mañana",
+      "NextEvent": 39
+    }
+  ]
+}

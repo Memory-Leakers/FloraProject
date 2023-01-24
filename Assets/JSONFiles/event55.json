@@ -1,0 +1,11 @@
+{
+  "Name": "Preguntar sobre Norm",
+  "Text": "‘¿Volveremos a encontrarnos con Norm?’\n ‘Por el Árbol, no. Espero que no volvamos a verlo nunca.’ Respondió Kief. Volvió a mirar a Satz. ‘Mató a tus padres, ¿verdad?’. Satz se sobresaltó. ¿Lo sabía? Él no se lo había contado. \n ‘No te sorprendas tanto chaval, estaba claro. ¿Cómo si no un niño nómada acaba como esclavo en Luma? Tendrían que acabar con sus padres primero. La libertad lo es todo para los nómadas. Y no es que disimules muy bien tu odio por el noble.’ Satz guardó silencio. \n ‘Quieres vengarte, ¿verdad?’. Continuó Kief al cabo de un rato. ‘Sí’ dijo simplemente Satz.\n ‘¿Y cómo piensas hacerlo, exactamente? Necesitarías un ejército, y aun así no podrías con él. Norm tiene más poder que muchas naciones enteras. Lleva comandando ejércitos desde antes de que nacieras. No es un noble mercader cualquiera.’\n ‘No me importa. Sé usar una espada. Si lo encuentro lo mataré.’ Respondió Satz intentando sonar decidido. Aquello no parecía tan sencillo después de que Kief le expusiera la situación. \n ‘Si lo encuentras te matará. Eres un necio’ respondió seco Kief. \n El silencio se volvió a apoderar del ambiente. Satz se levantó, dispuesto a irse. Kief era buen hombre, pero él había tomado una decisión. Quería vengar a sus padres. ‘Tienes una segunda oportunidad, chaval. Valórala’ dijo Kief con un suspiro. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Seguir adelante",
+      "NextNode": 9,
+      "NextEvent": 42
+    }
+  ]
+}

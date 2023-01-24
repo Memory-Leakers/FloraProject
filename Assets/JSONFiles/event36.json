@@ -1,0 +1,14 @@
+{
+  "Name": "La caravana sigue adelante",
+  "Text": "Ya estaba empezando amanecer cuando la caravana llego a una bifurcación. Con la poca luz del día y la niebla despejándose, pudieron discernir lo que era una caravana partida en dos.\n ‘Esta no es una caravana nómada… Parece de Ur’ dijo Kief a Gambud mientras se acercaban cada vez más. ‘Seguramente iban al gran festival’ siguió.\n ‘¿Qué hacían tan al este?’ pregunto Gambud. ‘Los habitantes de Ur, los sacas de la seguridad de sus muros y son incapaces de sobrevivir’\n ‘¿Habrán sido víctimas de las luces de Isir?’ se preguntaba Kief en silencio.\n ‘¿Deberíamos echar un vistazo?’ dijo Gambud a Kief mientras se preparaba para maniobrar.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Te acercas al lugar del accidente",
+      "NextEvent": 37
+    },
+    {
+      "ChoiceText": "Prosigues tu camino",
+      "NextEvent": 38
+    }
+  ]
+}

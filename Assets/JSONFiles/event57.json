@@ -1,0 +1,11 @@
+{
+  "Name": "No decir nada",
+  "Text": "",
+  "Choices": [
+    {
+      "ChoiceText": "Guardar Silencio",
+      "NextNode":  9,
+      "NextEvent": 42
+    }
+  ]
+}

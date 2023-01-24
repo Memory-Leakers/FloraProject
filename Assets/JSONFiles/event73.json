@@ -1,0 +1,10 @@
+{
+  "Name": "Salir sin miedo",
+  "Text": "Satz decide no hacer caso a Kief. Unas horas más tarde, Satz sale junto a Kief y van juntos al pueblo.\n\n Al llegar allí, encontraron que los pueblerinos yacían muertos en el suelo. El comerciante y su aprendiz quedaron estupefactos ante la visión. Kief miró a su alrededor, buscando posibles maleantes, responsables de la masacre. Satz que quedó mirando los cuerpos, petrificado.\n\n ‘Vamonos de aquí. ¡Rápido!’ dijo Kief tirando de Satz. Antes de salir corriendo, Satz vio una caja llena de botellas de Triaca. Corrió hacia ella y la cogió. Necesitaban la Triaca.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Salís corriendo hacia la caravana",
+      "NextEvent": 74
+    }
+  ]
+}

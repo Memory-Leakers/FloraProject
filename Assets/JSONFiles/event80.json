@@ -1,0 +1,10 @@
+{
+  "Name": "Una enfermedad ha acabado con ellos",
+  "Text": "Quizá una enfermedad repentina haya hecho que todos los habitantes mueran. Pero, si fuera así, ¿no estarían en sus casas? Satz reflexionó un poco acerca de aquello, pero no se le ocurrieron más opciones. Descartó la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Seguís hacia la Gran Floresta",
+      "NextEvent": 79
+    }
+  ]
+}

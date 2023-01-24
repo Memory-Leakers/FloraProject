@@ -1,0 +1,10 @@
+{
+  "Name": "Llegan al final del recorrido",
+  "Text": "Al cabo de unas horas, se empezaba a vislumbrar el final del trayecto. Cuando estuvieron suficientemente cerca, Satz vio la puerta que llevaba a la cámara de los doce. Por lo que le había contado Kief, los doce eran los protectores del árbol. Y entre ellos, el más poderoso era El Guardián, un ente divino de algún tipo. La puerta era de piedra y decorada con grabados de relieve con algún tipo de historia sagrada explicada en ellos. Satz no sabía nada de religión, así que no le prestó mucha atención a los garabatos.\n Lo que sí llamó su atención fue que la puerta estaba abierta.\n\n ‘¿No debería estar cerrada?’ preguntó Satz a Kief. La mirada de estupefacción del comerciante fue toda la respuesta que necesitó. La puerta debería estar cerrada. Satz se inclinó para mirar dentro.\n\n Tras la puerta se encontraban doce cadáveres. Iban vestidos con túnicas blancas. Sin embargo, no parecían humanos. Su piel era oscura, y el fuego de la sala reveló una textura rugosa. No era piel humana, sino corteza de árbol. \n ‘¡Los Doce!’ gritó horrorizado un hombre a su espalda.\n Kief puso una mano en el hombro de Satz, apartándolo de en medio. Una multitud de personas entraron dando empujones, con rostros incrédulos. \n\n De entre las sombras surgió una figura. Alta, con pelo negro. Satz lo reconoció al instante. Norm. En la mano portaba una gema, o quizá un fruto, que brillaba con luz dorada. En su otra mano sujetaba a un hombre-árbol. Satz desenfundó su espada. \n\n En un instante, docenas de tropas surgieron de la nada, atacando a cualquiera a la vista. Kief agarró a Satz y lo arrastró fuera de la sala. Satz se resistió, los ojos clavados en Norm, pero Kief era más fuerte que él.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Os alejáis",
+      "NextEvent": 62
+    }
+  ]
+}

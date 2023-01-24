@@ -1,0 +1,10 @@
+{
+  "Name": "Ilvana aparece de la nada",
+  "Text": " A lomos de un Graphorn, Ilvana llevaba una lanza larga y embistió contra las luces de Isir. Estas se dispersaron, al parecer aterrorizadas. Satz se quedó impresionado, no sabía que las luces de Isir podían sentir miedo.\n\n En unos minutos, las luces habían desaparecido. Ilvana se acercó a la caravana, saludando alegremente.\n\n ‘Parece que llego en el momento oportuno’ dijo ella bajando de su montura.\n\n ‘¿Qué haces aquí, no deberías haber vuelto a Ur?’ dijo Kief tajante.\n\n ‘Un ‘gracias’ no estaría de más, comerciante. He decidido que debo asegurarme de que vuestra misión tiene éxito.’ respondió Ilvana. Se giró hacia Satz. ‘Permitidme acompañaros’ dijo con una reverencia. \n ",
+  "Choices": [
+    {
+      "ChoiceText": "Aceptar a Ilvana en el equipo",
+      "NextEvent": 86
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "La Triaca ya no hace efecto",
+  "Text": "Satz bajó a toda prisa, buscando la caja de Triaca que habían traido del pueblo. El viejo Gambud estaba a punto de echarle un trago. ‘¡Para!’ gritó Satz, arrebatándole la Triaca de las manos. \n Gambud empezó a refunfuñar de inmediato, pero Satz hizo oídos sordos de sus comentarios.\n Satz se concentró, intentando escuchar, como siempre había podido hacer. Las raíces que forman la Triaca siempre habían emitido un sonido concreto. Era capaz de diferenciarlas con su oído. Incluso cuando estaban mezcladas dentro del brebaje. La botella de Triaca en sus manos emitía los mismos sonidos de siempre. Satz se relajó, quizá no había nada de que preocuparse. Entonces el sonido cambió. Satz no pudo transformar sus sensaciones en palabras, pero el sonido ahora parecía más… ¿Triste? Apagado. Le recordó al sonido que emitía el Guardián antes de morir. \n\n Las raíces estaban muriendo, al igual que el árbol. Provenían de él, así que era lógico que dejaran de crecer si este moría. Si las raíces estaban muriendo, la Triaca estaba dejando de surtir efecto. El único método para evitar la intoxicación al comer.\n\n Los pueblerinos no habían sido asesinados, habían muerto por comer.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Explicar a los demás tu teoría",
+      "NextEvent": 83
+    }
+  ]
+}

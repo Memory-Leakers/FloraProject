@@ -1,0 +1,11 @@
+{
+  "Name": "Ir al sur, hacia la Floresta, y dejar a Ilvana atrás",
+  "Text": "‘Siento que Norm está yendo hacia el sur’ dijo Satz. Los demás lo miraron, algo confundidos.\n ‘No sé explicarlo, pero lo siento. Creo que puedo oírle’. \n Ilvana parecía descontenta. ‘No creo que sea conveniente ir hacia el sur, aunque creas que va en esa dirección. Sin un ejército para enfrentarlo, será imposible vencerle.’\n\n Satz sabía que era cierto, pero no podían perder tiempo. El árbol estaba muriendo. También podía sentir eso.\n\n ‘En ese caso, partiremos de inmediato. Gracias por la ayuda, Ilvana’ dijo Kief abriendo la puerta de la caravana. \n\n Ilvana se marchó.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Hacia el sur",
+      "NextNode":  11,
+      "NextEvent": 71
+    }
+  ]
+}

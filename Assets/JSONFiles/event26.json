@@ -1,10 +1,10 @@
 {
-  "Name": "Sigues trabajando",
-  "Text": "",
+  "Name": "Gambud cierra la puerta de la caravana",
+  "Text": "La caravana se encontraba ya en movimiento. Satz estaba sentado en el suelo, reflexionando sobre la decisión que había tomado. Desconocía aun si había hecho lo correcto, solo sabia que esta iba a ser su nueva vida.\n La caravana era larga, ancha y tenía dos niveles. El primer nivel ya era más grande que la casa de Kavi, pensó. En este se encontraban tres ventanas, dos de ellas situadas a ambos lados y la tercera, más pequeña, en la misma puerta trasera por la que había entrado. \n Tocando el techo había cabinetes que daban la vuelta a toda estancia, exceptuando un pequeño hueco donde una escalera de mano permitía la entrada al segundo nivel.\n En la parte delantera se encontraba una mesa clavada en el suelo rodeada por lo que a Satz le parecía una gran silla en forma de media luna. Al lado, una puerta que daba al conductor. En la parte trasera, a ambos lados de la puerta, había unos cubículos que ayudaban a atar y fijar las mercancías que traían.\n En el medio de la estancia, delante de una de las ventanas, había un espacio designado para preparar comida. Al otro lado unos armarios lleno de botellas de alcohol y triacas fijadas con cuerdas para que no se movieran con el balanceo de la caravana.\n El segundo nivel era más pequeño. Se encontraban cuatro camas, una en cada lado de la estancia. En la pared, al lado de ellas, había unas ventanas que permitían una vista mejor del horizonte.\n En medio de la estancia se situaba un artefacto de hierro con esferas rojas ardiendo en el interior, de él salía un tubo que llegaba hasta el techo y a la vez otro que daba al suelo calentando la estancia inferior.\n Satz se levantó. Podía escuchar vagamente las voces de Kief y Gambud conversando. No acostumbrado al balanceo de la caravana, ando lentamente apoyándose en las paredes de la estancia. Se subió a la silla de media luna y gateo hasta llegar a la pared.\n ",
   "Choices": [
     {
-      "ChoiceText": "Sientes curiosidad, te arrimas a la venta y observas detenidamente",
-      "NextEvent": 8
+      "ChoiceText": "Pones la oreja en la pared para escuchar la conversación",
+      "NextEvent": 27
     }
   ]
 }

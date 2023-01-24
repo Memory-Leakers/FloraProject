@@ -1,0 +1,10 @@
+{
+  "Name": "Han muerto de forma natural",
+  "Text": "Quizá hayan muerto todos de forma natural. Un infarto masivo, o algo por el estilo, pensó Satz. Nunca había oído hablar de algo así. Seguramente no fuera eso. \n\n Descartó la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Seguís hacia la Gran Floresta",
+      "NextEvent": 79
+    }
+  ]
+}

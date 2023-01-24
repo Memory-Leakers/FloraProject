@@ -1,0 +1,10 @@
+{
+  "Name": "Encuentro en el camino",
+  "Text": "Satz se encontraba en el piso de arriba observando el horizonte. Se fijó en unas luces, acercándose despacio. Oyó a Kief dar un grito. ‘¡Luces de Isir!’. \n\n Del suelo salían gruesas raíces que se juntaban en el aire, formando un torso humanoide con brazos y cabeza. Repartidas de forma uniforme por todo el cuerpo, tenía doce calaveras humanas ardiendo. No tenía ojos ni nariz, pero sí una enorme boca ensangrentada.\n\n Kief intentó apagar las luces de la caravana, pero era demasiado tarde. Las luces de Isir los habían visto, y se acercaban a ellos a toda velocidad. \n\n ‘¿Huimos?’ preguntó Satz. ‘No se puede huir de las luces de Isir. Toca luchar. Coge tu espada’.\n Satz no estaba muy seguro de aquello. Al menos una docena de figuras avanzando hacia ellos. No podían contra todos. \n\n Oyeron el sonido de un Graphorn cabalgando, proviniendo de detrás de la caravana. Satz se giró, esperando una emboscada.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Ilvana aparece de la nada",
+      "NextEvent": 85
+    }
+  ]
+}

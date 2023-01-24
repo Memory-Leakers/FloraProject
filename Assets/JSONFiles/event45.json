@@ -1,0 +1,11 @@
+{
+  "Name": "Mal augurio",
+  "Text": "Cuando la caravana se acercaba a una bifurcación, encontraron un mensaje de advertencia cerca del poste que indicaba la dirección hacia la Gran Floresta. ‘No avancéis por aquí’.\n ‘No podemos cambiar la dirección ahora’ dijo Kief. ‘Si vamos al norte ahora, perderemos demasiado tiempo’.\n ",
+  "Choices": [
+    {
+      "ChoiceText": "Ignorar el mensaje, seguir hacia el sur",
+      "NextNode": 4,
+      "NextEvent": 47
+    }
+  ]
+}
