@@ -1,9 +1,9 @@
 {
-  "Name": "Tratar de no llamar la atención",
-  "Text": "Kief tiene razón, pensó Satz. No puedo ir por ahí enseñando la marca. Además, no quiero esa atención ahora mismo. \n\n Unas horas más tarde, la caravana llegó a un pequeño pueblo costero. \n Satz se quedó en la caravana, esperando a que los demás volvieran con la Triaca.\n ",
+  "Name": "Tratar de no llamar la atenciÃ³n",
+  "Text": "Kief tiene razÃ³n, pensÃ³ Satz. No puedo ir por ahÃ­ enseÃ±ando la marca. AdemÃ¡s, no quiero esa atenciÃ³n ahora mismo. \n\n Unas horas mÃ¡s tarde, la caravana llegÃ³ a un pequeÃ±o pueblo costero. \n Satz se quedÃ³ en la caravana, esperando a que los demÃ¡s volvieran con la Triaca.\n ",
   "Choices": [
     {
-      "ChoiceText": "Esperar a los demás",
+      "ChoiceText": "Esperar a los demÃ¡s",
       "NextEvent": 75
     }
   ]

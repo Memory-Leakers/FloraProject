@@ -1,0 +1,10 @@
+{
+  "Name": "Te acobardas e intentas volver dentro de la caravana",
+  "Text": "Satz corrió hacia la ventana de la caravana por donde había salido. Kief corrió detrás de él, cogiéndolo por el cuello de la ropa y tirando.\n Un fuerte estruendo de árboles partiendo se escuchó. De debajo de la caravana salió una raíz enorme partiéndola en dos mitades.\n ‘¡Mi keli!’ grito Gambud, ‘¡Maldito pedazo de leña!’ Una raíz salió del cuerpo de la criatura disparada hacia el viejo. Ilvana desenvainó la espada mientras se anteponía. Con un rápido movimiento de brazos y muñecas pudo desviar la raíz.\n ‘Satz, ve a buscar el cofre con las esferas de la fogata.’ ordenó Kief. ‘Nosotros distraeremos la criatura’\n   ",
+  "Choices": [
+    {
+      "ChoiceText": "FIN DEL JUEGO. PULSA AQUI PARA VOLVER A EMPEZAR",
+      "Restart": 1
+    }
+  ]
+}

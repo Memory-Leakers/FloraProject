@@ -1,9 +1,9 @@
 {
-  "Name": "Satz devuelve las mercancías dentro de la caja",
-  "Text": "Kavi se dirigió al lado de su cama y se empezó a colocar con dificultad una capa negra que cubría también la cabeza.\n Satz, que ya había devuelto las mercancías, se giró mirando a Gossal. Al verle la cara pudo comprender que él le pedía que lo intentara de nuevo mientras Kavi estaba de espaldas preparándose para salir.\n Satz quería ayudarlo, pero tenía demasiado miedo.\n ",
+  "Name": "Satz devuelve las mercancï¿½as dentro de la caja",
+  "Text": "Kavi se dirigiÃ³ al lado de su cama y se empezÃ³ a colocar con dificultad una capa negra que cubrÃ­a tambiÃ©n la cabeza.\n Satz, que ya habÃ­a devuelto las mercancÃ­as, se girÃ³ mirando a Gossal. Al verle la cara pudo comprender que Ã©l le pedÃ­a que lo intentara de nuevo mientras Kavi estaba de espaldas preparÃ¡ndose para salir.\n Satz querÃ­a ayudarlo, pero tenÃ­a demasiado miedo.\n  ",
   "Choices": [
     {
-      "ChoiceText": "Ignoras la petición de Gossal",
+      "ChoiceText": "Ignoras la peticiï¿½n de Gossal",
       "NextEvent": 5
     }
   ]

@@ -1,10 +1,10 @@
 {
   "Name": "Esperar a los desconocidos",
-  "Text": "",
+  "Text": "La Gran Floresta era un enorme pantano, solo navegable a través de los escuetos puentes que atravesaban el territorio. El acceso a la capital estaba enormemente restringido por este motivo. Solo había dos entradas, ambas muy vigiladas. \n\n La caravana se acercó, lentamente, a las murallas de la ciudad. No había nadie en la entrada.\n ‘Debe ser por la Triaca’ dijo Kief. \n Era cierto, si la Triaca había dejado de surtir efecto, era muy probable que el caos se hubiera apoderado de la ciudad. \n Un sentimiento imperativo de prisa se adueñó de Satz. Tenía un mal presentimiento. Alzó su vista hacia el Gran Árbol. A diferencia del Árbol Moribundo, este seguía vivo, y sus hojas parecían más vivas que nunca.\n ",
   "Choices": [
     {
-      "ChoiceText": "Seguir adelante",
-      "NextEvent": 45
+      "ChoiceText": "JUEGO INACABADO. PULSA PARA VOLVER A EMPEZAR",
+      "Restart": 1
     }
   ]
 }

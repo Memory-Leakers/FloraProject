@@ -1,0 +1,11 @@
+{
+    "Name": "Flora",
+    "Text": "'Desde que existe memoria de nuestra historia, en nuestro mundo, Flora, solo ha habido una forma de comer y beber sin correr el riesgo de morir: la Triaca.\n La mezcla de tres raíces: Flor de nieve, Bulbo de garra y Burbuja de agua, resultan en este poderoso brebaje. Al ingerirlo junto a la comida, el efecto tóxico, presente en todos los alimentos, desaparece.\n\n Estas tres plantas son el bien más preciado que existe, pues nos otorgan la vida. Recordad dar las gracias al Gran Árbol, pues él es quien nos otorga sus plantas.' \n\n- de 'Flora', libro de texto para escolares.",
+    "Choices" : 
+    [
+        {
+            "ChoiceText" : "Empezar",
+            "NextEvent" : 0
+        }
+    ]
+}

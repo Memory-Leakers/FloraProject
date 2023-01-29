@@ -1,9 +1,8 @@
 {
-  "Name": "Ignoras la petición de Gossal",
-  "Text": "'Vamos Gossal levántate que ya es hora de que salgamos a vender' dijo Kavi mientras acababa de colocarse su capa negra y recoger su bastón.\n Aún adolorido, Gossal se levantó como pudo del suelo, cargo la mochila a sus espaldas y ató la carreta a su cintura.\n ",
-  "Choices": [
-    {
-      "ChoiceText": "Gossal y Kavi salen de casa para ir a vender las mercancías",
+  "Name": "Ignoras la peticiï¿½n de Gossal",
+  "Text": "'Vamos Gossal levÃ¡ntate que ya es hora de que salgamos a vender' dijo Kavi mientras acababa de colocarse su capa negra y recoger su bastÃ³n.\n AÃºn adolorido, Gossal se levantÃ³ como pudo del suelo, cargo la mochila a sus espaldas y atÃ³ la carreta a su cintura.\n\n ",
+  "Choices" :[ {
+      "ChoiceText": "Gossal y Kavi salen de casa para ir a vender las mercancï¿½as",
       "NextEvent": 3
     }
   ]

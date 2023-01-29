@@ -12,6 +12,8 @@ public class CaravanBehavior : MonoBehaviour
 
     private GameManager _gameManager;
 
+    public Camera camera;
+
     private void Start()
     {
         _gameManager = FindObjectOfType<GameManager>();
@@ -32,7 +34,18 @@ public class CaravanBehavior : MonoBehaviour
             return;
         }
 
-        transform.position += (Vector3)dir * Time.deltaTime * movingSpeed; 
+        transform.position += (Vector3)dir * Time.deltaTime * movingSpeed;
+
+        if (Input.GetAxis("Mouse ScrollWheel") < 0)
+        {
+            if (camera.orthographicSize < 9)
+                camera.orthographicSize++;
+        }
+        if (Input.GetAxis("Mouse ScrollWheel") > 0)
+        {
+            if (camera.orthographicSize > 4)
+                camera.orthographicSize--;
+        }
     }
 
     public void GoTo(Vector2 pos)

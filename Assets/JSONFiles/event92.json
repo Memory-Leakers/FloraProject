@@ -1,0 +1,10 @@
+{
+  "Name": "Kief y Satz salen por una ventana",
+  "Text": "Las luces se encontraban delante en el camino seguido por un rastro de sangre. Poco a poco estas se acercaban. Algunas eran tan altas como tres hombres. Cada vez más cerca Satz lo pudo discernir\n\n Del suelo salían gruesas raíces que se juntaban en el aire, formando un torso humanoide con brazos y cabeza. Repartidas de forma uniforme por todo el cuerpo, tenía doce calaveras humanas ardiendo. No tenía ojos ni nariz, pero sí una enorme boca ensangrentada.\n\n La criatura se retorció. Las raíces que formaban su cuerpo se abrieron dejando caer huesos, pedazos de metal y sangre.\n Las calaveras empezaron a rotar apuntando hacia Satz. El joven podía notarlo, la presión de sus huecas miradas en él. Una imagen le vino a la cabeza, la del guardián, esa presencia era como la suya\n ‘Guardián…’ murmuro la criatura dentro de todas sus mentes. ‘¡No! Yo no soy el guardián’ Grito Satz acobardado.\n  ",
+  "Choices": [
+    {
+      "ChoiceText": "Te acobardas e intentas volver dentro de la caravana",
+      "NextNode": 93
+    }
+  ]
+}

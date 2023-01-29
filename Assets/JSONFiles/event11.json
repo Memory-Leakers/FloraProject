@@ -1,10 +1,14 @@
 {
   "Name": "Coges una herramienta afilada y sales corriendo de casa",
-  "Text": "Con la herramienta en mano, Satz saliÛ de casa dejando la puerta entre abierta. Se plantÛ delante del noble, mir·ndolo con una cara de desprecio e ira.\n",
+  "Text": "Con la herramienta en mano, Satz sali√≥ de casa dejando la puerta entre abierta. Se plant√≥ delante del noble, mir√°ndolo con una cara de desprecio e ira.\n",
   "Choices": [
     {
       "ChoiceText": "Intentas clavarle la herramienta",
       "NextEvent": 13
+    },
+    {
+      "ChoiceText":"Sigues mir√°ndolo sin hacer nada",
+      "NextEvent" : 15
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "Name": "Sales corriendo de casa",
-  "Text": "Satz saliÛ de casa dejando la puerta abierta. Se plantÛ delante del noble, mir·ndolo con una cara de desprecio e ira.\n",
+  "Text": "Satz sali√≥ de casa dejando la puerta abierta. Se plant√≥ delante del noble, mir√°ndolo con una cara de desprecio e ira.\n",
   "Choices": [
     {
-      "ChoiceText": "Sigues mir·ndolo sin hacer nada",
+      "ChoiceText": "Sigues mir√°ndolo sin hacer nada",
       "NextEvent": 15
     }
   ]

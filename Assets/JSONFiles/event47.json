@@ -1,13 +1,13 @@
 {
   "Name": "Emboscada",
-  "Text": "El sonido de una batalla llega a la caravana. Al parecer, un grupo de bandidos ha asaltado una caravana comerciante más adelante. Llevaban guardias, y los comerciantes suelen estar entrenados en combate, así que aún estaban dando guerra. Sin embargo, los bandidos parecían superarlos en número.\n ‘No parece que vayan a lograrlo’ dijo Gambud con voz tensa.\n Satz salió de la caravana, con aspecto asustado.\n La decisión era de Kief. Podían tratar de ayudar a los comerciantes. Quizá él y Gambud pudieran hacer la diferencia. Satz sería de ayuda, pero no le obligaría a pelear si se negaba.\n ‘Podríamos aprovechar el furor de la batalla y avanzar sin que nos presten atención’, sugirió Gambud, aunque en su tono podía verse que no le agradaba esa opción. El honor entre comerciantes era importante para él. Sin embargo, esta opción también era peligrosa. Si no lograban pasar desapercibidos, acabarían como sus compañeros.\n ",
+  "Text": " El sonido de una batalla llega a la caravana. Al parecer, un grupo de bandidos ha asaltado una caravana comerciante mÃ¡s adelante. Llevaban guardias, y los comerciantes suelen estar entrenados en combate, asÃ­ que aÃºn estaban dando guerra. Sin embargo, los bandidos parecÃ­an superarlos en nÃºmero.\n\n â€˜No parece que vayan a lograrloâ€™ dijo Gambud con voz tensa.\n Satz saliÃ³ de la caravana, con aspecto asustado.\n La decisiÃ³n era de Kief. PodÃ­an tratar de ayudar a los comerciantes. QuizÃ¡ Ã©l y Gambud pudieran hacer la diferencia. Satz serÃ­a de ayuda, pero no le obligarÃ­a a pelear si se negaba.\n\n â€˜PodrÃ­amos aprovechar el furor de la batalla y avanzar sin que nos presten atenciÃ³nâ€™, sugiriÃ³ Gambud, aunque en su tono podÃ­a oÃ­rse que no le agradaba esa opciÃ³n. El honor entre comerciantes era importante para Ã©l. Sin embargo, esta opciÃ³n tambiÃ©n era peligrosa. Si no lograban pasar desapercibidos, acabarÃ­an como sus compaÃ±eros.\n\n ",
   "Choices": [
     {
       "ChoiceText": "Ayudar a los comerciantes",
       "NextEvent": 50
     },
     {
-      "ChoiceText": "Avanzar aprovechando la confusión de la batalla",
+      "ChoiceText": "Avanzar aprovechando la confusiÃ³n de la batalla",
       "NextEvent": 51
     }
   ]

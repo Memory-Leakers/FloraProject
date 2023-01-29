@@ -20,19 +20,25 @@ public class ChoiceBehavior : MonoBehaviour
 
     private void Update()
     {
-        if (mouseOver)
-        {
-            Vector3 pos = Input.mousePosition + new Vector3(150, 40, 0);
-            informationPanel.transform.position = pos;
-            text.text = eventNode.eventInfo.Choices[choiceNum].InformationText;
-        }
+        if (!mouseOver)
+            return;
 
+        Vector3 pos = Input.mousePosition + new Vector3(150, 40, 0);
+        informationPanel.transform.position = pos;
+        text.text = eventNode.eventInfo.Choices[choiceNum].InformationText;
     }
 
     public void OnMouseEnter()
     {
-        informationPanel.SetActive(true);
-        mouseOver = true;
+        if (choiceNum >= eventNode.eventInfo.Choices.Length)
+            return;
+
+        if (eventNode.eventInfo.Choices[choiceNum].InformationText != null)
+        {
+            informationPanel.SetActive(true);
+
+            mouseOver = true;
+        }
     }
 
     public void OnMouseExit()

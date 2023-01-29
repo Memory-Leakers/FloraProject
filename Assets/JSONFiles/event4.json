@@ -1,9 +1,9 @@
 {
-  "Name": "Haces caso de Gossal e intentas sacar mercancías de la caja a escondidas",
-  "Text": "Satz dejo la caja en la carretilla y, intentando que Kavi no le viera, sacó unas cuantas botellas de Triaca de la caja. Aun así, no las consiguió esconder, y Kavi lo vio.\n 'Satz, más te vale obedecerme, o esta noche te haré dormir atado en la calle.’\n Satz palideció. Bajó su mirada a los pies de Kavi y asintió con la cabeza. Sabía que Kavi cumpliría su amenaza. No quería dormir otra vez en el exterior.\n Satz conocía bien como era el mundo en el exterior, y aun con los maltratos diarios, él prefería seguir en casa que poner un pie fuera de ella.\n ",
+  "Name": "Haces caso de Gossal e intentas sacar mercancï¿½as de la caja a escondidas",
+  "Text": "Satz dejo la caja en la carretilla y, intentando que Kavi no le viera, sacÃ³ unas cuantas botellas de Triaca de la caja. Aun asÃ­, no las consiguiÃ³ esconder, y Kavi lo vio.\n\n 'Satz, mÃ¡s te vale obedecerme, o esta noche te harÃ© dormir atado en la calle.â€™\n\n Satz palideciÃ³. BajÃ³ su mirada a los pies de Kavi y asintiÃ³ con la cabeza. SabÃ­a que Kavi cumplirÃ­a su amenaza. No querÃ­a dormir otra vez en el exterior.\n Satz conocÃ­a bien como era el mundo en el exterior, y aun con los maltratos diarios, Ã©l preferÃ­a seguir en casa que poner un pie fuera de ella.\n ",
   "Choices": [
     {
-      "ChoiceText": "Satz devuelve las mercancías dentro de la caja",
+      "ChoiceText": "Satz devuelve las mercancï¿½as dentro de la caja",
       "NextEvent": 6
     }
   ]

@@ -48,8 +48,6 @@ public class CaravanManager : MonoBehaviour
     void Update()
     {
         UpdateGameTime();
-        Debug.Log("Time in minutes : " + gametimeinminutes);
-        Debug.Log("Time in hours : " +  gametimeinhours);
 
         //if (Input.GetKeyDown(KeyCode.Return))
         //{

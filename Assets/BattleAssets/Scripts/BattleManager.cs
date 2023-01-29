@@ -60,7 +60,7 @@ public class BattleManager : MonoBehaviour
 
     private IEnumerator AutoPlay()
     {
-        yield return new WaitForSeconds(2.0f);
+        //yield return new WaitForSeconds(1.0f);
 
         while (_teamManager.membersA > 0 && _teamManager.membersB > 0)
         {

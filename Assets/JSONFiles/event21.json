@@ -1,9 +1,9 @@
 {
-  "Name": "Aunque tu deseo es ir con él, tu miedo al exterior te lo impide",
-  "Text": "Con el corazón palpitando fuertemente, Satz miro a Kief a los ojos, sintiéndose atraído por la idea de dejar atrás su vida como esclavo. Sin embargo, su miedo al exterior lo paralizaba. Aunque deseaba aceptar la oferta de Kief, el pensamiento de enfrentar lo desconocido le hacía dudar.\n En ese mismo instante, Kavi y Gossal entraron por la puerta, ya habiendo terminado su ruta de hoy. Kavi sonrió al ver a Kief, invitándole a sentarse a la mesa donde Gossal ya estaba preparando comida y bebida que habían traído de vuelta a casa.\n Durante mucho rato estuvieron hablando, bebiendo y comiendo. Mientras Satz se había puesto a trabajar de nuevo.\n Al Cabo de unas horas, los dos se despidieron. Antes de salir, Kief compartió una mirada con Satz, y se esfumó hacia el exterior.\n ",
+  "Name": "Aunque tu deseo es ir con Ã©l, tu miedo al exterior te lo impide",
+  "Text": "Con el corazÃ³n palpitando fuertemente, Satz mirÃ³ a Kief a los ojos, sintiÃ©ndose atraÃ­do por la idea de dejar atrÃ¡s su vida como esclavo. Sin embargo, su miedo al exterior lo paralizaba. Aunque deseaba aceptar la oferta de Kief, el pensamiento de enfrentar lo desconocido le hacÃ­a dudar.\n\n En ese mismo instante, Kavi y Gossal entraron por la puerta, ya habiendo terminado su ruta de hoy. Kavi sonriÃ³ al ver a Kief, invitÃ¡ndole a sentarse a la mesa donde Gossal ya estaba preparando comida y bebida que habÃ­an traÃ­do de vuelta a casa.\n Durante mucho rato estuvieron hablando, bebiendo y comiendo. Mientras Satz se habÃ­a puesto a trabajar de nuevo.\n\n Al Cabo de unas horas, los dos se despidieron. Antes de salir, Kief compartiÃ³ una mirada con Satz, y se esfumÃ³ hacia el exterior.\n  ",
   "Choices": [
     {
-      "ChoiceText": "Kief se va cerrando la puerta detrás de sí",
+      "ChoiceText": "Kief se va cerrando la puerta detrÃ¡s de sÃ­",
       "NextEvent": 23
     }
   ]

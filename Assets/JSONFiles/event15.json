@@ -1,9 +1,9 @@
 {
-  "Name": "Sigues mir·ndolo sin hacer nada",
-  "Text": "Uno de los guardias inmovilizÛ a Satz mientras otro le saco de dentro de la ropa un colgante que lo identificaba como propiedad de Kavi.\n 'Mi seÒor Norm, este perro ya tiene amo' dijo uno de los guardias.\n ",
+  "Name": "Sigues mir√°ndolo sin hacer nada",
+  "Text": "Uno de los guardias inmoviliz√≥ a Satz mientras otro le saco de dentro de la ropa un colgante que lo identificaba como propiedad de Kavi.\n 'Mi se√±or Norm, este perro ya tiene amo' dijo uno de los guardias.\n ",
   "Choices": [
     {
-      "ChoiceText": "El nombre de Norm te hace recordar m·s de tu pasado",
+      "ChoiceText": "El nombre de Norm te hace recordar m√°s de tu pasado",
       "NextEvent": 16
     }
   ]

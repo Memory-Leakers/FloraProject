@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using System.Text;
 
 public class EventNode : MonoBehaviour
 {
@@ -51,6 +52,11 @@ public class EventNode : MonoBehaviour
     public void LoadEventInfo(TextAsset JSONFile)
     {
         eventInfo = JsonUtility.FromJson<EventInfo>(JSONFile.text);
+
+        byte[] encodedBytes = Encoding.UTF8.GetBytes(eventInfo.Text);
+        string utf8String = Encoding.UTF8.GetString(encodedBytes);
+        eventInfo.Text = utf8String;
+
         for (int i = 0; i < eventChoices.Length; ++i)
         {
             eventChoices[i].gameObject.SetActive(false);
@@ -65,7 +71,7 @@ public class EventNode : MonoBehaviour
     {
         _eventManager = FindObjectOfType<EventManager>();
         _gameManager = FindObjectOfType<GameManager>();
-        LoadEventInfo(_eventManager.jsonFiles[0]);
+        LoadEventInfo(nodeJSON);
     }
 
     // Update is called once per frame

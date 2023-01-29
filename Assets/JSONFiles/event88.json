@@ -1,9 +1,9 @@
 {
-  "Name": "Avanz·is hacia la Gran Floresta con Ilvana",
-  "Text": "A medida que la caravana se acercaba a la Gran Floresta, la silueta del Gran ¡rbol se empezaba a percibir en el horizonte. Era m·s alto que cualquier montaÒa que Satz hubiera visto jam·s. M·s alto a˙n que el ¡rbol Moribundo. SintiÛ fascinaciÛn, pero en su interior, tambiÈn sintiÛ un miedo inexplicable. \n ",
+  "Name": "Avanz√°is hacia la Gran Floresta con Ilvana",
+  "Text": "A medida que la caravana se acercaba a la Gran Floresta, la silueta del Gran √Årbol se empezaba a percibir en el horizonte. Era m√°s alto que cualquier monta√±a que Satz hubiera visto jam√°s. M√°s alto a√∫n que el √Årbol Moribundo. Sinti√≥ fascinaci√≥n, pero en su interior, tambi√©n sinti√≥ un miedo inexplicable. \n ",
   "Choices": [
     {
-      "ChoiceText": "Lleg·is a la Gran Floresta",
+      "ChoiceText": "Lleg√°is a la Gran Floresta",
       "NextNode": 12,
       "NextEvent": 90
     }

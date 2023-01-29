@@ -1,9 +1,9 @@
 {
   "Name": "Han muerto de forma natural",
-  "Text": "Quiz· hayan muerto todos de forma natural. Un infarto masivo, o algo por el estilo, pensÛ Satz. Nunca habÌa oÌdo hablar de algo asÌ. Seguramente no fuera eso. \n\n DescartÛ la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n\n ",
+  "Text": "Quiz√° hayan muerto todos de forma natural. Un infarto masivo, o algo por el estilo, pens√≥ Satz. Nunca hab√≠a o√≠do hablar de algo as√≠. Seguramente no fuera eso. \n\n Descart√≥ la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n\n ",
   "Choices": [
     {
-      "ChoiceText": "SeguÌs hacia la Gran Floresta",
+      "ChoiceText": "Segu√≠s hacia la Gran Floresta",
       "NextEvent": 79
     }
   ]

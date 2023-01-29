@@ -1,13 +1,13 @@
 {
-  "Name": "Conversación con Kief",
-  "Text": "Satz empezaba a acostumbrarse al traqueteo de la caravana. Descubrió que le relajaba. Estaba sentado en la parte delantera, junto a Kief. El viejo mercader parecía absorto en sus pensamientos. \n\n Una especie de susurro, como por el viento, sacó a Satz de sus cavilaciones. Lo reconoció en seguida, era el mismo sonido de siempre. El que escuchaba emanar de las raíces cuando fabricaba Triaca. Sin embargo, parecía más fuerte esta vez, como si estuviera acercándose a él. \n ‘¿A dónde vamos?’\n Kief se giró hacia él, confuso. ‘Ah, claro. No te lo hemos dicho’. Se incorporó un poco. ‘Nos dirigimos hacia el santuario de los doce. Vamos a celebrar un festival muy importante allí. Sucede cada cinco años, aproximadamente’.\n Satz recordaba algo sobre un festival, pero hacía tiempo que no pensaba sobre ello. ‘Es una buena ocasión para conocer a más nómadas, Satz. Será importante para ti. Si quieres ser un nómada libre de nuevo, necesitas volver a formar parte de nuestra comunidad’.\n A Satz no le gustaba la idea de conocer a gente nueva. \n ",
+  "Name": "ConversaciÃ³n con Kief",
+  "Text": "Satz empezaba a acostumbrarse al traqueteo de la caravana. DescubriÃ³ que le relajaba. Estaba sentado en la parte delantera, junto a Kief. El viejo mercader parecÃ­a absorto en sus pensamientos. \n\n Una especie de susurro, como por el viento, sacÃ³ a Satz de sus cavilaciones. Lo reconociÃ³ en seguida, era el mismo sonido de siempre. El que escuchaba emanar de las raÃ­ces cuando fabricaba Triaca. Sin embargo, parecÃ­a mÃ¡s fuerte esta vez, como si estuviera acercÃ¡ndose a Ã©l. \n â€˜Â¿A dÃ³nde vamos?â€™\n Kief se girÃ³ hacia Ã©l, confuso. â€˜Ah, claro. No te lo hemos dichoâ€™. Se incorporÃ³ un poco. â€˜Nos dirigimos hacia el santuario de los doce. Vamos a celebrar un festival muy importante allÃ­. Sucede cada cinco aÃ±os, aproximadamenteâ€™.\n Satz recordaba algo sobre un festival, pero hacÃ­a tiempo que no pensaba sobre ello. â€˜Es una buena ocasiÃ³n para conocer a mÃ¡s nÃ³madas, Satz. SerÃ¡ importante para ti. Si quieres ser un nÃ³mada libre de nuevo, necesitas volver a formar parte de nuestra comunidadâ€™.\n A Satz no le gustaba la idea de conocer a gente nueva. \n ",
   "Choices": [
     {
       "ChoiceText": "Preguntar sobre Norm",
       "NextEvent": 55
     },
     {
-      "ChoiceText": "Preguntar sobre los Nómadas",
+      "ChoiceText": "Preguntar sobre los NÃ³madas",
       "NextEvent": 56
     },
     {

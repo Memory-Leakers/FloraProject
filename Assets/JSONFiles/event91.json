@@ -1,0 +1,10 @@
+{
+  "Name": "Camino a Ur",
+  "Text": "Era la segunda noche desde que partieron. Se encontraban ya muy cerca de la entrada al valle de Ur. Satz i Kief dormían en su cama placidamente. Gambud conducía la caravana mientras conversaba con Ilvana. \n\n Un fuerte zumbido en seco como el de viento en un bosque despertó a Satz de inmediato. Sobresaltado miro a Kief que seguía durmiendo placidamente. Podía escuchar a Gambud e Ilvana conversar despreocupadamente.\n\n El sonido volvió ahora intermitente. Abrió la ventana para escucharlo mejor. Pero el zumbido no variaba, era constante, incesable, provenía de todas direcciones.\n\n Satz no aguanto más, el zumbido era ahora cada vez más fuerte.\n\n ‘Aaahhhh’ Kief se levantó sobresaltado, sacando una espada de debajo de la cama. ‘¿No lo escuchas?’ pregunto a Kief ‘El zumbido’\n Kief miro fijamente a Satz que se tapaba las orejas en el suelo apoyado contra su cama. Cerro los ojos y respiro hondo. \n ‘No oigo ningún zumbido, pero… ¿Qué son esos gritos?’ se preguntó Kief en silencio. Abrió otra de las ventanas. Siguió escuchando en silencio el exterior.\n\n Detrás de los quejidos de dolor de Satz pudo discernirlo ahora bien. Gritos de hombre y mujeres eran traídos por los gélidos vientos de los montes de Ur.\n\n Los quejidos de Satz cesaron. Kief se turnó y ayudo a levantarlo. ‘Vienen’ Kief lo miro desconcertado. El joven se iba alejando de las ventanas hacia el centro de la estancia.\n\n Un fuerte estruendo de árboles rompiendo se escuchó más lejos de la bruma de la noche. Doce luces se vieron pasar por el lateral seguido del mismo estruendo de antes. La caravana se inclinó casi tumbándose por completo.\n\n ‘Luces de Isir!’ los dos escucharon a Ilvana gritar. El estruendo se escuchó de nuevo, seguido del sonido de cuerdas rompiéndose. El Graphorn que tiraba de la caravana chillo agonizante. Mientras, el carruaje se inclinaba de nuevo, tumbándose finalmente.\n  ",
+  "Choices": [
+    {
+      "ChoiceText": "Kief y Satz salen por una ventana",
+      "NextNode": 92
+    }
+  ]
+}

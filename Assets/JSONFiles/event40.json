@@ -1,13 +1,13 @@
 {
   "Name": "Avisarles gritando, desde la ventana",
-  "Text": "Satz abrió la ventana de golpe. Con sumo esfuerzo, ya que no acostumbraba a gritar, chilló: ‘¡Cuidado, se acerca gente!’. Gambud y Kief se giraron hacia Satz, confusos.\n Después miraron hacia donde señalaba el joven. Las figuras, aún lejos, eran difíciles de distinguir.\n Los dos comerciantes murmuraron entre ellos. Satz no podía distinguir lo que decían.\n ‘Aún están lejos. Si reparamos esto a tiempo podemos desviarnos. No parece que lleven Graphorns, así que dudo que nos alcancen’ dijo Gambud.\n ‘Pero podrían no ser bandidos. Si no lo son, podrían echarnos una mano con esto’ dijo Kief señalando la rueda rota.\n La decisión era suya, al fin y al cabo.\n ",
+  "Text": "Satz abriÃ³ la ventana de golpe. Con sumo esfuerzo, ya que no acostumbraba a gritar, chillÃ³: â€˜Â¡Cuidado, se acerca gente!â€™. Gambud y Kief se giraron hacia Satz, confusos.\n DespuÃ©s miraron hacia donde seÃ±alaba el joven. Las figuras, aÃºn lejos, eran difÃ­ciles de distinguir.\n Los dos comerciantes murmuraron entre ellos. Satz no podÃ­a distinguir lo que decÃ­an.\n\n â€˜AÃºn estÃ¡n lejos. Si reparamos esto a tiempo podemos desviarnos. No parece que lleven Graphorns, asÃ­ que dudo que nos alcancenâ€™ dijo Gambud.\n â€˜Pero podrÃ­an no ser bandidos. Si no lo son, podrÃ­an echarnos una mano con estoâ€™ dijo Kief seÃ±alando la rueda rota.\n\n La decisiÃ³n era suya, al fin y al cabo.\n ",
   "Choices": [
     {
       "ChoiceText": "Esperar a los desconocidos",
       "NextEvent": 43
     },
     {
-      "ChoiceText": "Reparar la rueda y tomar un desvío",
+      "ChoiceText": "Reparar la rueda y tomar un desvÃ­o",
       "NextEvent": 44
     }
   ]

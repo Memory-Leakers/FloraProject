@@ -1,10 +1,12 @@
 {
   "Name": "Ayudar a los comerciantes",
-  "Text": "‘Vamos a ayudarles’ dijo Kief decidido. Satz dio un respingo, pero inspiró hondo y se armó de valor. Sus padres habían muerto por unos bandidos como aquellos. Si alguien les hubiera ayudado entonces, estarían vivos. Así que eso iban a hacer.\n\n ‘Así me gusta, como debería ser’ Gambud se armó con un arco corto. Satz lo miró, sorprendido.\n ‘¿Qué pasa canijo , crees que un viejo como yo no sabe defenderse?’ Satz no respondió.\n\n Kief le trajo una espada corta a Satz de dentro del carruaje. ‘Muy bien, no sé si sabes usar esto, pero…’ ‘Sí, sé usarlo’ le interrumpió Satz. Había practicado con su madre cuando era más joven. Hacía mucho tiempo, pero aún recordaba lo esencial.\n ‘Muy bien, a por ellos’. Kief le dedicó una sonrisa, se cargó con una maza y avanzaron juntos hacia la batalla.\n ",
+  "Text": "â€˜Vamos a ayudarlesâ€™ dijo Kief decidido. Satz dio un respingo, pero inspirÃ³ hondo y se armÃ³ de valor. Sus padres habÃ­an muerto por unos bandidos como aquellos. Si alguien les hubiera ayudado entonces, estarÃ­an vivos.\n\n â€˜AsÃ­ me gusta, como deberÃ­a ser.â€™ Gambud se armÃ³ con un arco corto. Satz lo mirÃ³, sorprendido.\n â€˜Â¿QuÃ© pasa canijo, crees que un viejo como yo no sabe defenderse?â€™ Satz no respondiÃ³.\n\n Kief le trajo una espada corta a Satz de dentro del carruaje. â€˜Muy bien, no sÃ© si sabes usar esto, peroâ€¦â€™ â€˜SÃ­, sÃ© usarloâ€™ le interrumpiÃ³ Satz. HabÃ­a practicado con su madre cuando era mÃ¡s joven. HacÃ­a mucho tiempo, pero aÃºn recordaba lo esencial.\n â€˜Muy bien, a por ellosâ€™. Kief le dedicÃ³ una sonrisa, se cargÃ³ con una maza y avanzaron juntos hacia la batalla.\n  ",
   "Choices": [
     {
-      "ChoiceText": "Victoria",
-      "NextEvent": 52
+      "ChoiceText": "Combatir",
+      "NextEvent": 52,
+      "BattleID" : 0,
+      "WinBattleEvent" : 52
     }
   ]
 }

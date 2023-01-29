@@ -1,9 +1,9 @@
 {
   "Name": "Coges la ruta hacia el sur",
-  "Text": "‘Bien, prefiero evitar el frío’, dijo Kief.\n ‘Supongo que el chaval sabrá luchar. Si encontramos unos bandidos lo sacaremos a pelear.\n Ya tiene una edad’. dijo Gambud dándole una palmada en el hombro a Satz. La idea de pelear le horrorizó. Deseó que eso nunca tuviera que pasar.\n Después de esto, Kief acompañó a Satz y le mostró una cama, donde dormiria a partir de entonces. Satz se durmió poco después, exhausto, asustado. Emocionado.\n ",
+  "Text": "â€˜Bien, prefiero evitar el frÃ­oâ€™, dijo Kief.\n\n â€˜Supongo que el chaval sabrÃ¡ luchar. Si encontramos unos bandidos lo sacaremos a pelear. Ya tiene una edad.â€™ dijo Gambud dÃ¡ndole una palmada en el hombro a Satz. La idea de pelear le horrorizÃ³. DeseÃ³ que eso nunca tuviera que pasar.\n\n DespuÃ©s de esto, Kief acompaÃ±Ã³ a Satz y le mostrÃ³ una cama, donde dormirÃ­a a partir de entonces. Satz se durmiÃ³ poco despuÃ©s, exhausto, asustado. Emocionado.\n ",
   "Choices": [
     {
-      "ChoiceText": "Os dirigís al sur",
+      "ChoiceText": "Os dirigÃ­s al sur",
       "NextNode": 2,
       "NextEvent": 32
     }

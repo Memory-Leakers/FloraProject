@@ -1,10 +1,10 @@
 {
   "Name": "Bajas a ayudar",
-  "Text": "Kief desato la última cuerda que fijaba las mercancías en los cubículos. Satz que lo ayudaba las iba sacando una a una fuera de la caravana.\n\n Los hombres de antes volvieron con unas carretillas dirigiéndose directamente a Satz.\n ‘¿Son solo estas?’ preguntó uno de los hombres. Satz se encogió deseando que Kief lo hubiera escuchado.\n ‘Correcto, todas estas cajas son Bulbos de Garra provenientes del sur de Luma’ contesto Kief cerrando la puerta con llave.\n ‘Excelente, por favor mi señor Kief acompáñenos a nuestras tiendas’ pidió afablemente. Con la mano abierta señalo una gran tienda piramidal de color azul.\n ‘Chaval, ayúdales a cargarlo en la carretilla’ ordeno Kief mientras cogía una caja.\n\n Al tener todas las cajas cargadas. Satz intento abrir la puerta para volver hacia dentro.\n ‘De eso nada chaval, tu te vienes conmigo’ Kief le dio unas palmadas en la espalda.\n\n ‘Estos son hombres de la gente de Ur’ se alejó caminando ‘Las gentes de Ur raramente salen de sus valles, y no son muchos los nómadas a los que les permiten acceso. Así que cuando lo hacen aprovechan para hacerse con todos los suministro que escasean en Ur.’\n\n ",
+  "Text": "Kief desato la Ãºltima cuerda que fijaba las mercancÃ­as en los cubÃ­culos. Satz que lo ayudaba las iba sacando una a una fuera de la caravana.\n\n Los hombres de antes volvieron con unas carretillas dirigiÃ©ndose directamente a Satz.\n â€˜Â¿Son solo estas?â€™ preguntÃ³ uno de los hombres. Satz se encogiÃ³ deseando que Kief lo hubiera escuchado.\n â€˜Correcto, todas estas cajas son Bulbos de Garra provenientes del sur de Lumaâ€™ contesto Kief cerrando la puerta con llave.\n â€˜Excelente, por favor mi seÃ±or Kief acompÃ¡Ã±enos a nuestras tiendasâ€™ pidiÃ³ afablemente. Con la mano abierta seÃ±alo una gran tienda piramidal de color azul.\n â€˜Chaval, ayÃºdales a cargarlo en la carretillaâ€™ ordeno Kief mientras cogÃ­a una caja.\n\n Al tener todas las cajas cargadas. Satz intento abrir la puerta para volver hacia dentro.\n â€˜De eso nada chaval, tu te vienes conmigoâ€™ Kief le dio unas palmadas en la espalda.\n\n â€˜Estos son hombres de la gente de Urâ€™ se alejÃ³ caminando â€˜Las gentes de Ur raramente salen de sus valles, y no son muchos los nÃ³madas a los que les permiten acceso. AsÃ­ que cuando lo hacen aprovechan para hacerse con todos los suministro que escasean en Ur.â€™\n\n ",
   "Choices": [
     {
-      "ChoiceText": "Seguir adelante",
-      "NextEvent": 45
+      "ChoiceText": "Ir a la Comitiva de Ur",
+      "NextEvent": 53
     }
   ]
 }

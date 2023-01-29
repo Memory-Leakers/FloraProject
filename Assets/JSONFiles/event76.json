@@ -1,9 +1,9 @@
 {
   "Name": "Los han asesinado por la noche",
-  "Text": "Satz consideró la idea de que varios asesinos llegaran por la noche y acabaran con el pueblo. Pero no parecía que hubiera un motivo para hacer eso. Descartó la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n ",
+  "Text": "Satz considerÃ³ la idea de que varios asesinos llegaran por la noche y acabaran con el pueblo. Pero no parecÃ­a que hubiera un motivo para hacer eso. DescartÃ³ la idea, mientras la caravana se alejaba del pueblo a toda prisa.\n ",
   "Choices": [
     {
-      "ChoiceText": "Seguís hacia la Gran Floresta",
+      "ChoiceText": "SeguÃ­s hacia la Gran Floresta",
       "NextEvent": 79
     }
   ]
